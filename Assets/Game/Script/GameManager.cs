@@ -7,6 +7,7 @@ public class GameManager : MonoBehaviour {
     public EasyTween mainScreen;
     public EasyTween screenStart;
     public EasyTween screenInstructions;
+    public ScreenQuestionController questionScreen;
     public EasyTween screenCongratulation;
     public EasyTween screenTryAgain;
 
@@ -32,6 +33,15 @@ public class GameManager : MonoBehaviour {
         Invoke("TurnOffBlockPanel", 1.5f);
     }
 
+    public void OnSTartQuestions ()
+    {
+        blockPanel.SetActive(true);
+        screenInstructions.OpenCloseObjectAnimation();
+        questionScreen.Show();
+        questionScreen.LoadQuestion(questions[0]);
+        Invoke("TurnOffBlockPanel", 1.5f);
+    }
+
 
     private void TurnOffBlockPanel ()
     {
@@ -39,12 +49,6 @@ public class GameManager : MonoBehaviour {
     }
 }
 
-[System.Serializable]
-public struct Emoji
-{
-    public int id;
-    public Sprite sprite;
-}
 
 [System.Serializable]
 public struct Question
