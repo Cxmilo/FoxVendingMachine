@@ -10,6 +10,9 @@ public class GameManager : MonoBehaviour {
     public EasyTween screenCongratulation;
     public EasyTween screenTryAgain;
 
+    [Header("Question List")]
+    public List<Question> questions = new List<Question>();
+
     [Header("Blocker Panel Manager")]
     public GameObject blockPanel;
 
@@ -35,3 +38,37 @@ public class GameManager : MonoBehaviour {
         blockPanel.SetActive(false);
     }
 }
+
+[System.Serializable]
+public struct Emoji
+{
+    public int id;
+    public Sprite sprite;
+}
+
+[System.Serializable]
+public struct Question
+{
+    public Canal canal;
+    public string question;
+    public string categoria;
+    public Sprite backGround;
+    public Emoji[] answers;
+}
+
+public enum Canal
+{
+    FOX,
+    FX,
+    FOX_LIFE,
+    FXM,
+    CINE_CANAL,
+    NATGEO,
+    NATGEOKIDS,
+    NATGEOWILD
+}
+
+
+
+
+
