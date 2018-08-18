@@ -1,11 +1,13 @@
-﻿using System.Collections;
+﻿using DG.Tweening;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ScreenQuestionController : MonoBehaviour {
-
+public class ScreenQuestionController : MonoBehaviour
+{
+    public static ScreenQuestionController instance;
 
     public Question currentQuestion;
 
@@ -16,8 +18,27 @@ public class ScreenQuestionController : MonoBehaviour {
     public Transform optionsContainer;
     public Transform emojisContainer;
 
-    public void LoadQuestion (Question question)
+    public Transform animationContainer;
+
+    public int maxIntents = 3;
+
+    [Header("PopUp ")]
+    public EasyTween popUp;
+    public Text popUpText;
+    [TextArea()]
+    public string popUpBase;
+
+    private int currentIntents = 0;
+
+    private void Awake()
     {
+        instance = this;
+    }
+
+    public void LoadQuestion(Question question)
+    {
+        currentIntents = 0;
+
         currentQuestion = question;
 
         background.sprite = currentQuestion.backGround;
@@ -27,22 +48,81 @@ public class ScreenQuestionController : MonoBehaviour {
 
         var answersEmoji = emojis.Where(e => currentQuestion.answers.Contains(e)).ToList();
 
-        foreach (var emoji in answersEmoji)
+        var optionsEmojis = emojis.Where(e => !answersEmoji.Contains(e)).ToList().Take(16 - answersEmoji.Count());
+
+        optionsEmojis = optionsEmojis.Concat(answersEmoji);
+        optionsEmojis = optionsEmojis.OrderBy(a => System.Guid.NewGuid());
+
+        foreach (var emoji in optionsEmojis)
         {
             emoji.transform.SetParent(optionsContainer);
         }
 
-        var optionsEmojis = emojis.Where(e => !answersEmoji.Contains(e)).ToList();
-        //TODO : SHuffle optionsEmoji List
-        for (int i = 0; i < 16-answersEmoji.Count(); i++)
+    }
+
+    public void Show()
+    {
+        GetComponent<EasyTween>().OpenCloseObjectAnimation();
+    }
+
+    public void Hide()
+    {
+        GetComponent<EasyTween>().OpenCloseObjectAnimation();
+    }
+
+    public void AnswerClicked(Emoji currentEmoji)
+    {
+        if (currentQuestion.answers.Contains(currentEmoji))
         {
-            optionsEmojis.ElementAt(i).transform.SetParent(optionsContainer);
+            StartCoroutine(MoveEmojiToAnswers(currentEmoji));
+        }
+        else
+        {
+            GameManager.instance.BlockScreen();
+            currentIntents++;
+            transform.DOShakePosition(1, 15);
+
+            if (currentIntents == maxIntents)
+            {
+                GameManager.instance.ShowLoseScreen();
+            }
+            else
+            {
+                ShowPopUpWrong();
+            }
         }
     }
 
-    public void Show ()
+    void ShowPopUpWrong()
     {
-        GetComponent<EasyTween>().OpenCloseObjectAnimation();
-        
+        int remainIntents = maxIntents - currentIntents;
+        popUpText.text = string.Format(popUpBase, remainIntents);
+        popUp.OpenCloseObjectAnimation();
+        Invoke("HidePopUp", 2);
     }
+
+    void HidePopUp()
+    {
+        popUp.OpenCloseObjectAnimation();
+    }
+
+    IEnumerator MoveEmojiToAnswers(Emoji emoji)
+    {
+        GameManager.instance.BlockScreen();
+        emoji.transform.SetParent(animationContainer);
+        yield return new WaitForEndOfFrame();
+        emoji.transform.DOMove(answerContainer.transform.position, 1f);
+        yield return new WaitForSeconds(1f);
+        emoji.transform.SetParent(answerContainer);
+
+        yield return new WaitForSeconds(1f);
+
+
+        if (answerContainer.childCount == currentQuestion.answers.Count())
+        {
+            //Show a Win Animation or something
+            GameManager.instance.ShowWinScreen();
+        }
+    }
+
 }
