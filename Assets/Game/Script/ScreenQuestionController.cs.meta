@@ -3,7 +3,23 @@ guid: 04400b297a0e7974c99c46da2cad8a07
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - background: {instanceID: 0}
+  - questionText: {instanceID: 0}
+  - answerContainer: {instanceID: 0}
+  - optionsContainer: {instanceID: 0}
+  - emojisContainer: {instanceID: 0}
+  - animationContainer: {instanceID: 0}
+  - FOX: {fileID: 21300000, guid: 5b8b06e2121db144cbc18d1e00c6f641, type: 3}
+  - FX: {fileID: 21300000, guid: 1bd74fab2d3800943ad0839007ae6097, type: 3}
+  - FOX_LIFE: {fileID: 21300000, guid: 8ffc3fb89222abc4e831bd76396a7509, type: 3}
+  - FXM: {fileID: 21300000, guid: 11a9ba6b811e5f94d8ec4b32057f7aa6, type: 3}
+  - CINE_CANAL: {fileID: 21300000, guid: 9cd4a6a8a0c908f4f8b7ee4a5f42b210, type: 3}
+  - NATGEO: {fileID: 21300000, guid: 3e14a4a32934b1243a11928cd190416c, type: 3}
+  - NATGEOKIDS: {fileID: 21300000, guid: d7d8a20ca9d87d24caf026568a91fea9, type: 3}
+  - NATGEOWILD: {fileID: 21300000, guid: d5dd777b3de7e5846ace3ef43559da66, type: 3}
+  - popUp: {instanceID: 0}
+  - popUpText: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

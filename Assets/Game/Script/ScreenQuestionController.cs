@@ -20,6 +20,17 @@ public class ScreenQuestionController : MonoBehaviour
 
     public Transform animationContainer;
 
+    [Header("Questions Backgrounds")]
+
+    public Sprite FOX;
+    public Sprite FX;
+    public Sprite FOX_LIFE;
+    public Sprite FXM;
+    public Sprite CINE_CANAL;
+    public Sprite NATGEO;
+    public Sprite NATGEOKIDS;
+    public Sprite NATGEOWILD;
+
     public int maxIntents = 3;
 
     [Header("PopUp ")]
@@ -41,7 +52,37 @@ public class ScreenQuestionController : MonoBehaviour
 
         currentQuestion = question;
 
-        background.sprite = currentQuestion.backGround;
+        Sprite backGround = FOX;
+
+        switch (currentQuestion.canal)
+        {
+            case Canal.FOX:
+                backGround = FOX;
+                break;
+            case Canal.FX:
+                backGround = FX;
+                break;
+            case Canal.FOX_LIFE:
+                backGround = FOX_LIFE;
+                break;
+            case Canal.FXM:
+                backGround = FXM;
+                break;
+            case Canal.CINE_CANAL:
+                backGround = CINE_CANAL;
+                break;
+            case Canal.NATGEO:
+                backGround = NATGEO;
+                break;
+            case Canal.NATGEOKIDS:
+                backGround = NATGEOKIDS;
+                break;
+            case Canal.NATGEOWILD:
+                backGround = NATGEOWILD;
+                break;
+        }
+
+        background.sprite = backGround;
         questionText.text = question.question;
 
         var emojis = emojisContainer.GetComponentsInChildren<Emoji>();
@@ -53,9 +94,9 @@ public class ScreenQuestionController : MonoBehaviour
         optionsEmojis = optionsEmojis.Concat(answersEmoji);
         optionsEmojis = optionsEmojis.OrderBy(a => System.Guid.NewGuid());
 
-        foreach (var emoji in optionsEmojis)
+        foreach (var _emoji in optionsEmojis)
         {
-            emoji.transform.SetParent(optionsContainer);
+            _emoji.transform.SetParent(optionsContainer);
         }
 
     }

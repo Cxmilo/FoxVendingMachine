@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour {
 
@@ -98,8 +99,6 @@ public struct Question
 {
     public Canal canal;
     public string question;
-    public string categoria;
-    public Sprite backGround;
     public List<Emoji> answers;
 }
 
