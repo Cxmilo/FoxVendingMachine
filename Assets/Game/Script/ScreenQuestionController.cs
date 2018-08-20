@@ -20,6 +20,10 @@ public class ScreenQuestionController : MonoBehaviour
 
     public Transform animationContainer;
 
+    public AudioClip wonFeedBack;
+    public AudioClip loseFeedBack;
+
+
     [Header("Questions Backgrounds")]
 
     public Sprite FOX;
@@ -89,6 +93,13 @@ public class ScreenQuestionController : MonoBehaviour
 
         var answersEmoji = emojis.Where(e => currentQuestion.answers.Contains(e)).ToList();
 
+#if UNITY_EDITOR
+        foreach (var item in answersEmoji)
+        {
+            item.GetComponent<Image>().color = Color.red;
+        } 
+#endif
+
         var optionsEmojis = emojis.Where(e => !answersEmoji.Contains(e)).ToList().Take(16 - answersEmoji.Count());
 
         optionsEmojis = optionsEmojis.Concat(answersEmoji);
@@ -139,6 +150,7 @@ public class ScreenQuestionController : MonoBehaviour
         int remainIntents = maxIntents - currentIntents;
         popUpText.text = string.Format(popUpBase, remainIntents);
         popUp.OpenCloseObjectAnimation();
+        AudioSource.PlayClipAtPoint(loseFeedBack, Camera.main.transform.position);
         Invoke("HidePopUp", 2);
     }
 
@@ -163,6 +175,7 @@ public class ScreenQuestionController : MonoBehaviour
         {
             //Show a Win Animation or something
             GameManager.instance.ShowWinScreen();
+            AudioSource.PlayClipAtPoint(wonFeedBack, Camera.main.transform.position);
         }
     }
 

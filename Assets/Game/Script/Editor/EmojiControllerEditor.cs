@@ -14,5 +14,10 @@ public class EmojiControllerEditor : Editor
         {
             myScript.CreateEmojisButtons();
         }
+
+        if (GUILayout.Button("replaces emojis"))
+        {
+            myScript.Transfer();
+        }
     }
 }

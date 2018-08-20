@@ -420,7 +420,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 76
+  m_RootOrder: 75
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -439,7 +439,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &29722012
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -567,7 +567,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 42
+  m_RootOrder: 41
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -586,7 +586,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &56693167
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -669,7 +669,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 7b7bd9e294e6c4644816c46b4bb9a891, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 281c1c90d11250e48a2ea4491db4f5f9, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -714,7 +714,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 73
+  m_RootOrder: 72
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -733,7 +733,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &63619026
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -816,7 +816,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 240413b432550354a937c36cf319a1e2, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8bac1c84c661810429c16b94544cdf25, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -977,7 +977,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 20
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -996,7 +996,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &129971420
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1079,7 +1079,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 031eed8dec98cfa45a31c00ddf9ae85c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 30f8d1b95de92534f98b4085e073cde0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1124,7 +1124,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 28
+  m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1143,7 +1143,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &145502926
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1226,7 +1226,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 6a0e943b31ff2864587cc9eebd057a02, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d53f74fd6b7cb894d8b4288f28ed61be, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1240,111 +1240,6 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 145502923}
---- !u!1001 &180292660
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 946720505}
-    m_Modifications:
-    - target: {fileID: 224774262667446352, guid: 56491a967fa307d45a9ab10d0bf4d1f3,
-        type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224774262667446352, guid: 56491a967fa307d45a9ab10d0bf4d1f3,
-        type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224774262667446352, guid: 56491a967fa307d45a9ab10d0bf4d1f3,
-        type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224774262667446352, guid: 56491a967fa307d45a9ab10d0bf4d1f3,
-        type: 2}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224774262667446352, guid: 56491a967fa307d45a9ab10d0bf4d1f3,
-        type: 2}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224774262667446352, guid: 56491a967fa307d45a9ab10d0bf4d1f3,
-        type: 2}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224774262667446352, guid: 56491a967fa307d45a9ab10d0bf4d1f3,
-        type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 224774262667446352, guid: 56491a967fa307d45a9ab10d0bf4d1f3,
-        type: 2}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224774262667446352, guid: 56491a967fa307d45a9ab10d0bf4d1f3,
-        type: 2}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224774262667446352, guid: 56491a967fa307d45a9ab10d0bf4d1f3,
-        type: 2}
-      propertyPath: m_AnchoredPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224774262667446352, guid: 56491a967fa307d45a9ab10d0bf4d1f3,
-        type: 2}
-      propertyPath: m_SizeDelta.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224774262667446352, guid: 56491a967fa307d45a9ab10d0bf4d1f3,
-        type: 2}
-      propertyPath: m_SizeDelta.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224774262667446352, guid: 56491a967fa307d45a9ab10d0bf4d1f3,
-        type: 2}
-      propertyPath: m_AnchorMin.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224774262667446352, guid: 56491a967fa307d45a9ab10d0bf4d1f3,
-        type: 2}
-      propertyPath: m_AnchorMin.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224774262667446352, guid: 56491a967fa307d45a9ab10d0bf4d1f3,
-        type: 2}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224774262667446352, guid: 56491a967fa307d45a9ab10d0bf4d1f3,
-        type: 2}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 224774262667446352, guid: 56491a967fa307d45a9ab10d0bf4d1f3,
-        type: 2}
-      propertyPath: m_Pivot.x
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 224774262667446352, guid: 56491a967fa307d45a9ab10d0bf4d1f3,
-        type: 2}
-      propertyPath: m_Pivot.y
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 114385118245520324, guid: 56491a967fa307d45a9ab10d0bf4d1f3,
-        type: 2}
-      propertyPath: AudioSource
-      value: 
-      objectReference: {fileID: 2142971715}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 56491a967fa307d45a9ab10d0bf4d1f3, type: 2}
-  m_IsPrefabParent: 0
 --- !u!1 &200026094
 GameObject:
   m_ObjectHideFlags: 0
@@ -1450,7 +1345,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 24
+  m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1469,7 +1364,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &210279985
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1552,7 +1447,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 8a544326625c98f47bb3e70d356af7f0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c15dadcbd90fc174ea82674a0e8183b4, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1597,7 +1492,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 29
+  m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1616,7 +1511,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &226841182
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1699,7 +1594,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 5cb07761148640b44af392a48ef41f4d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f01e13d2043c0e84fb856215a704d264, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1744,7 +1639,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 13
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1763,7 +1658,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &252702908
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1846,7 +1741,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 40b205de94f3ad741b551eabf307791b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3e586279c740d0d47a3f1ee9fcc923e8, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1891,7 +1786,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 74
+  m_RootOrder: 73
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1910,7 +1805,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &281932186
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1993,7 +1888,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 780d9272bd232e0439bf1c8ffac22be4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a840eef11a4bff64584b98d62950a410, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2142,7 +2037,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 2142971715}
-  ClickSound: {fileID: 8300000, guid: 03412a8f229a9415caafabb2faccc4f3, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!1 &317748763
 GameObject:
   m_ObjectHideFlags: 0
@@ -2171,7 +2066,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 685574590}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
@@ -2242,7 +2137,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 56
+  m_RootOrder: 55
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -2261,7 +2156,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &318337877
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2669,7 +2564,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 32
+  m_RootOrder: 31
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -2688,7 +2583,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &411280880
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2771,7 +2666,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 464a54fd6ae2d7b4cb1068b0cde866c9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: aa09217d007526c46baf741b07714b6e, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2816,7 +2711,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 54
+  m_RootOrder: 53
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -2835,7 +2730,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &457687316
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3036,7 +2931,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 27
+  m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -3055,7 +2950,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &539500084
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3138,7 +3033,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: ad765b5173e14d34da7e3e5284112a8d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7fe7c107964a2b84cada5c720357f61b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3183,7 +3078,7 @@ RectTransform:
   m_LocalScale: {x: 0.99926424, y: 0.99926424, z: 0.99926424}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 80
+  m_RootOrder: 79
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -3202,7 +3097,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &542113702
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3330,7 +3225,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 57
+  m_RootOrder: 56
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -3349,7 +3244,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &581983357
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3432,7 +3327,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 722d605a6ed324d468edf81be0873f73, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 847b1f0b836eeea4eb8bab16ce046add, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3477,7 +3372,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 46
+  m_RootOrder: 45
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -3496,7 +3391,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &587890478
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3579,7 +3474,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 0be3eb024675e1947b3737386bd7def2, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5ab2c4df3630b9d449efc0c0fc6b6a21, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3624,7 +3519,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 38
+  m_RootOrder: 37
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -3643,7 +3538,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &610631723
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3726,7 +3621,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: dbd893c9a9362f646bda194bec94258e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 577352d3125fa3c429e9ad84d8f1cb93, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3839,7 +3734,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 15
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -3858,7 +3753,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &675165180
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3941,7 +3836,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: dd84ad4157d9c6e4bb6e48909edf50c7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: cc0f55ef9f2d0ba4fbbeda9668c85d3b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3967,6 +3862,7 @@ GameObject:
   - component: {fileID: 685574593}
   - component: {fileID: 685574592}
   - component: {fileID: 685574591}
+  - component: {fileID: 685574595}
   m_Layer: 5
   m_Name: ScreenPrice
   m_TagString: Untagged
@@ -3985,7 +3881,11 @@ RectTransform:
   m_LocalScale: {x: 1.0006856, y: 1.0006856, z: 1.0006856}
   m_Children:
   - {fileID: 1627927612}
+  - {fileID: 931991374}
   - {fileID: 317748764}
+  - {fileID: 2066997454}
+  - {fileID: 1153152176}
+  - {fileID: 1096917605}
   m_Father: {fileID: 103778873}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4163,7 +4063,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 7dad563222ad6bc42867401add71ccf4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0fd598f13d1f7734aaf370fc08e035e4, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4177,6 +4077,44 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 685574589}
+--- !u!114 &685574595
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 685574589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2558d93a49ea659438d5787a6f3e912c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  logo: {fileID: 1627927613}
+  prize: {fileID: 931991375}
+  code: {fileID: 725779025}
+  foxPrize:
+    code: A01
+    prize: {fileID: 21300000, guid: e9526ac861accbe47a9d7e87705ef5d6, type: 3}
+  fxPrize:
+    code: A02
+    prize: {fileID: 21300000, guid: e7e94d955fdef714e8ac8bec1b8cd914, type: 3}
+  foxLife:
+    code: A03
+    prize: {fileID: 21300000, guid: 96603e990a6b2be48b1ca4b1e37944ce, type: 3}
+  fxmLifePrize:
+    code: A04
+    prize: {fileID: 21300000, guid: 2f1468e87eefcf8439a251a34f70a985, type: 3}
+  CineCanalPrize:
+    code: A05
+    prize: {fileID: 21300000, guid: 7e89d4dd73b272a4da9e20feb593746a, type: 3}
+  NatGeoPrize:
+    code: A06
+    prize: {fileID: 21300000, guid: ade88ecbb4d45824784184d211e566aa, type: 3}
+  NatGeoKidsPrize:
+    code: A07
+    prize: {fileID: 21300000, guid: 22f98963f61b2134594c5bcf2d102a23, type: 3}
+  NatGeoWildPrize:
+    code: A08
+    prize: {fileID: 21300000, guid: a32586eeb09bd40428d04a3c957402d7, type: 3}
 --- !u!1 &704271957
 GameObject:
   m_ObjectHideFlags: 0
@@ -4208,7 +4146,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 16
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -4227,7 +4165,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &704271960
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4310,7 +4248,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 44ffb5e4ef6b31d45af0efcddcb587ad, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 359f0c02a65ccde418f7c687d663356f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4324,6 +4262,80 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 704271957}
+--- !u!1 &725779023
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 725779024}
+  - component: {fileID: 725779026}
+  - component: {fileID: 725779025}
+  m_Layer: 5
+  m_Name: PrizeCode
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &725779024
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 725779023}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2066997454}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 290.5, y: 70.1}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &725779025
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 725779023}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: b5e654925f406354ab15b4282f8a8549, type: 3}
+    m_FontSize: 50
+    m_FontStyle: 1
+    m_BestFit: 0
+    m_MinSize: 5
+    m_MaxSize: 50
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: A9
+--- !u!222 &725779026
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 725779023}
 --- !u!1 &732830797
 GameObject:
   m_ObjectHideFlags: 0
@@ -4577,7 +4589,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -4596,7 +4608,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &767824761
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4679,7 +4691,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 726711c861af8464a85c8a9fec27bced, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4a3aa758ded61ea4389bdc99f2f096f6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4724,7 +4736,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 72
+  m_RootOrder: 71
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -4743,7 +4755,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &772676453
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4826,7 +4838,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: a12583f39b24297459ffd1033fce6e9d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2d39e920c9719f74ca517e0c04135e6d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4871,7 +4883,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 39
+  m_RootOrder: 38
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -4890,7 +4902,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &788662296
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5018,7 +5030,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 67
+  m_RootOrder: 66
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -5037,7 +5049,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &802714934
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5120,7 +5132,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 3575d1ba6961dff4090d9dfddb07137a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4a49d62f0767fa64e84c8198bbf9b038, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5165,7 +5177,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 62
+  m_RootOrder: 61
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -5184,7 +5196,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &819624072
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5267,7 +5279,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: e244d3316e8cedc44b863a4bdbcedeff, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f2885308f36420046ba53fecdd0a5ecc, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5454,7 +5466,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 14
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -5473,7 +5485,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &904173114
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5556,7 +5568,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 957facb26efc6ac4da90afdfce0470e2, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 865b0deb2abf2c14a8f59a2d32cf2970, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5601,7 +5613,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 31
+  m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -5620,7 +5632,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &925098497
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5703,7 +5715,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 4aae1b9da9d715d438cbdb0063a7ea6c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c271b1c03bca1304dab3b7ef46b41689, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5748,7 +5760,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 68
+  m_RootOrder: 67
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -5767,7 +5779,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &925644190
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5850,7 +5862,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 55e47c3fc942a1c42a4d7271fb1be345, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 689fb4012cf989e45ac624bb175cd310, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5864,6 +5876,74 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 925644187}
+--- !u!1 &931991373
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 931991374}
+  - component: {fileID: 931991376}
+  - component: {fileID: 931991375}
+  m_Layer: 5
+  m_Name: Prize
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &931991374
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 931991373}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 685574590}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 117.7}
+  m_SizeDelta: {x: 333.2, y: 381.2}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &931991375
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 931991373}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: e9526ac861accbe47a9d7e87705ef5d6, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 1
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!222 &931991376
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 931991373}
 --- !u!1 &932483097
 GameObject:
   m_ObjectHideFlags: 0
@@ -5895,7 +5975,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 77
+  m_RootOrder: 76
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -5914,7 +5994,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &932483100
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5997,7 +6077,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: f7acd659b0e49a64a9379cbbe1ea2e4d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 70bd917d1a2dfd44fa94ffeaa8527467, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6042,7 +6122,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 66
+  m_RootOrder: 65
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -6061,7 +6141,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &941332063
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6144,7 +6224,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 3dfd87c0db32da44495a1d13a2cae1cd, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f48e91b32ea31a3449d070f793464df6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6185,7 +6265,6 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 1645923226}
   - {fileID: 1081700598}
   - {fileID: 1711570261}
   - {fileID: 1757306705}
@@ -6387,6 +6466,86 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 1be7236e580d0264d90ce0aaa4a09b08, type: 3}
   - {fileID: 21300000, guid: b784e5ff96a9c9f46994f3404ec7415e, type: 3}
   - {fileID: 21300000, guid: f7acd659b0e49a64a9379cbbe1ea2e4d, type: 3}
+  emojisPng:
+  - {fileID: 21300000, guid: 15d3874ca6b185d49b1fb180adc272a7, type: 3}
+  - {fileID: 21300000, guid: 34d892bf392f8684694166f83a5e7d32, type: 3}
+  - {fileID: 21300000, guid: 577352d3125fa3c429e9ad84d8f1cb93, type: 3}
+  - {fileID: 21300000, guid: 3e586279c740d0d47a3f1ee9fcc923e8, type: 3}
+  - {fileID: 21300000, guid: 05a78c6d644f9f6428421c413bb4936c, type: 3}
+  - {fileID: 21300000, guid: 7c37ccf0e34a80741ab44d48cc4aba0c, type: 3}
+  - {fileID: 21300000, guid: c11803dcb05ebbf4dbe6979f3f58e857, type: 3}
+  - {fileID: 21300000, guid: 6661317c0571af949b1e188edd174977, type: 3}
+  - {fileID: 21300000, guid: 8bac1c84c661810429c16b94544cdf25, type: 3}
+  - {fileID: 21300000, guid: 6b61866d410ddec4984ec6ec8ed9aed9, type: 3}
+  - {fileID: 21300000, guid: 30f8d1b95de92534f98b4085e073cde0, type: 3}
+  - {fileID: 21300000, guid: 8ac838c9296335d459f60878710c6e80, type: 3}
+  - {fileID: 21300000, guid: 10aacb0188b95fb42a5ea36f416639a6, type: 3}
+  - {fileID: 21300000, guid: 8e0ccae47f660f3438ebd4056686bcf3, type: 3}
+  - {fileID: 21300000, guid: 770bce920d26103478cdac2e188a7058, type: 3}
+  - {fileID: 21300000, guid: 69ba74f8b43b78a41aafc10585f12dd8, type: 3}
+  - {fileID: 21300000, guid: 7a8148839b3c9f241a2206732070117c, type: 3}
+  - {fileID: 21300000, guid: 3a6ad49ed2880bb4a9d6d81e999bd8d5, type: 3}
+  - {fileID: 21300000, guid: 05e751209105ed844a73c2a434600558, type: 3}
+  - {fileID: 21300000, guid: 9368881cb9be6c84b8c6dba0e909e7e5, type: 3}
+  - {fileID: 21300000, guid: 85359a4a3d74795438276e9ed23cb0fc, type: 3}
+  - {fileID: 21300000, guid: e355e0764d5726b4c888e312ed2c0b27, type: 3}
+  - {fileID: 21300000, guid: 847b1f0b836eeea4eb8bab16ce046add, type: 3}
+  - {fileID: 21300000, guid: 812e95ba5cb4a624294fad65ed829634, type: 3}
+  - {fileID: 21300000, guid: edddf55a87e84bb46a23b6e1865c55f2, type: 3}
+  - {fileID: 21300000, guid: 7fe7c107964a2b84cada5c720357f61b, type: 3}
+  - {fileID: 21300000, guid: d53f74fd6b7cb894d8b4288f28ed61be, type: 3}
+  - {fileID: 21300000, guid: e3f38b3e65d572e4da3ecf914f33cee3, type: 3}
+  - {fileID: 21300000, guid: 8fad3b95ad3b76b47ba23c8f6b00774c, type: 3}
+  - {fileID: 21300000, guid: c15dadcbd90fc174ea82674a0e8183b4, type: 3}
+  - {fileID: 21300000, guid: a4827a9670bced149a36318707c04c5a, type: 3}
+  - {fileID: 21300000, guid: 70bd917d1a2dfd44fa94ffeaa8527467, type: 3}
+  - {fileID: 21300000, guid: 359f0c02a65ccde418f7c687d663356f, type: 3}
+  - {fileID: 21300000, guid: 865b0deb2abf2c14a8f59a2d32cf2970, type: 3}
+  - {fileID: 21300000, guid: 281c1c90d11250e48a2ea4491db4f5f9, type: 3}
+  - {fileID: 21300000, guid: 02c67a08652d57f4d87bb8920c38b607, type: 3}
+  - {fileID: 21300000, guid: 489bcf90d655a694884ac4effda8ae2a, type: 3}
+  - {fileID: 21300000, guid: cc0f55ef9f2d0ba4fbbeda9668c85d3b, type: 3}
+  - {fileID: 21300000, guid: f48e91b32ea31a3449d070f793464df6, type: 3}
+  - {fileID: 21300000, guid: 4a49d62f0767fa64e84c8198bbf9b038, type: 3}
+  - {fileID: 21300000, guid: 689fb4012cf989e45ac624bb175cd310, type: 3}
+  - {fileID: 21300000, guid: 6290f03844311914897ec8fff900a046, type: 3}
+  - {fileID: 21300000, guid: 2d39e920c9719f74ca517e0c04135e6d, type: 3}
+  - {fileID: 21300000, guid: a840eef11a4bff64584b98d62950a410, type: 3}
+  - {fileID: 21300000, guid: fa46b520f03e1c54fbf40fc3dcdd38ea, type: 3}
+  - {fileID: 21300000, guid: 8ba11dfd0e23c5d4199fcfc75ba6c0c7, type: 3}
+  - {fileID: 21300000, guid: 4341d7405025d094893cc7411e0d9ca7, type: 3}
+  - {fileID: 21300000, guid: b0ec1580ef950fe45a35a8b95421b688, type: 3}
+  - {fileID: 21300000, guid: e46feb0398838614f97bbc673da72c31, type: 3}
+  - {fileID: 21300000, guid: dfb213e287524b34082afd9722161fed, type: 3}
+  - {fileID: 21300000, guid: f01e13d2043c0e84fb856215a704d264, type: 3}
+  - {fileID: 21300000, guid: a6089d3dd3fb32e459bd12ab564fcc33, type: 3}
+  - {fileID: 21300000, guid: c271b1c03bca1304dab3b7ef46b41689, type: 3}
+  - {fileID: 21300000, guid: aa09217d007526c46baf741b07714b6e, type: 3}
+  - {fileID: 21300000, guid: 06cb4f549c40bbc4481330b91bf791d3, type: 3}
+  - {fileID: 21300000, guid: a89c093d41363bd478b0fd0a5a38c23e, type: 3}
+  - {fileID: 21300000, guid: 828fd9d62bd181c42864cb381a47dd71, type: 3}
+  - {fileID: 21300000, guid: 963a8faf9d9e14841840b1d89cfe51e2, type: 3}
+  - {fileID: 21300000, guid: 0daa380050debf34eb89e9af9618c218, type: 3}
+  - {fileID: 21300000, guid: 72c2974253aca164e8e482db2e9b4c41, type: 3}
+  - {fileID: 21300000, guid: 87a78513d3a1c004f9594731d413c7df, type: 3}
+  - {fileID: 21300000, guid: 0a0e818d780625a4fa630a9bb99162e1, type: 3}
+  - {fileID: 21300000, guid: 064bfa95f6eb1da49962d1c32c103cc6, type: 3}
+  - {fileID: 21300000, guid: 5ab2c4df3630b9d449efc0c0fc6b6a21, type: 3}
+  - {fileID: 21300000, guid: 3d497f77c9e1ff84b8d9fd4b065e6a0b, type: 3}
+  - {fileID: 21300000, guid: 3af1701a6ad07fb439de9ffb6aedfd71, type: 3}
+  - {fileID: 21300000, guid: f2c6157763d78a546886f74165a9fb5b, type: 3}
+  - {fileID: 21300000, guid: c68b766333d15fd488d94fa080e4d00d, type: 3}
+  - {fileID: 21300000, guid: f2885308f36420046ba53fecdd0a5ecc, type: 3}
+  - {fileID: 21300000, guid: fe26b3becaa3bc243a7e3322c3e802df, type: 3}
+  - {fileID: 21300000, guid: 46edf6fe38434ee4299fd82318d8a9ea, type: 3}
+  - {fileID: 21300000, guid: 61510700228baca42ac92097bfe73fc5, type: 3}
+  - {fileID: 21300000, guid: 7e4b05c6f45e111429c579a640d6d942, type: 3}
+  - {fileID: 21300000, guid: ad095daf6e729344fa03f03152ab48b7, type: 3}
+  - {fileID: 21300000, guid: 1a8e2f2b1b4b44f4088d4afc9b6cf23a, type: 3}
+  - {fileID: 21300000, guid: cb2e35d35d1eff4408be00563fc89aa1, type: 3}
+  - {fileID: 21300000, guid: 92d9d43d9170c494aa13d8e0bb629ef7, type: 3}
+  - {fileID: 21300000, guid: 4a3aa758ded61ea4389bdc99f2f096f6, type: 3}
+  - {fileID: 21300000, guid: de7af52db510b1742970e2de2857aa6b, type: 3}
   emojiBase: {fileID: 1305117952353376, guid: 56491a967fa307d45a9ab10d0bf4d1f3, type: 2}
 --- !u!1 &948582130
 GameObject:
@@ -6419,7 +6578,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 64
+  m_RootOrder: 63
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -6438,7 +6597,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &948582133
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6521,7 +6680,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 8aab665dde2ac774bac01585be5f8b0a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 828fd9d62bd181c42864cb381a47dd71, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6566,7 +6725,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 41
+  m_RootOrder: 40
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -6585,7 +6744,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &972713912
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6668,7 +6827,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: dcc77065cad1d7842b9fa8c3aa8ffe5c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 72c2974253aca164e8e482db2e9b4c41, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6896,6 +7055,8 @@ MonoBehaviour:
   optionsContainer: {fileID: 1092072121}
   emojisContainer: {fileID: 946720505}
   animationContainer: {fileID: 1949167837}
+  wonFeedBack: {fileID: 8300000, guid: ef31d52f291a6b345a67cc279d41fe7c, type: 3}
+  loseFeedBack: {fileID: 8300000, guid: 3dd5bdaeeb75af748a0ff3ec5485e027, type: 3}
   FOX: {fileID: 21300000, guid: 5b8b06e2121db144cbc18d1e00c6f641, type: 3}
   FX: {fileID: 21300000, guid: 1bd74fab2d3800943ad0839007ae6097, type: 3}
   FOX_LIFE: {fileID: 21300000, guid: 8ffc3fb89222abc4e831bd76396a7509, type: 3}
@@ -6949,7 +7110,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 53
+  m_RootOrder: 52
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -6968,7 +7129,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1001659794
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7096,7 +7257,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 61
+  m_RootOrder: 60
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -7115,7 +7276,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1010318978
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7198,7 +7359,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 622a236edd61710448b033834a77f280, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c68b766333d15fd488d94fa080e4d00d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7243,7 +7404,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 59
+  m_RootOrder: 58
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -7262,7 +7423,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1014698876
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7345,7 +7506,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: f70a62c0027858c44b946dbdb13e84b1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3af1701a6ad07fb439de9ffb6aedfd71, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7390,7 +7551,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -7409,7 +7570,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1015049690
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7492,7 +7653,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 05ecac97b4ef41d4789d63d73128c7ca, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 92d9d43d9170c494aa13d8e0bb629ef7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7605,7 +7766,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 70
+  m_RootOrder: 69
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -7624,7 +7785,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1069879865
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7707,7 +7868,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 5d5802d31375772429557adc6ce2de7d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4341d7405025d094893cc7411e0d9ca7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7752,7 +7913,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 49
+  m_RootOrder: 48
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -7771,7 +7932,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1075028878
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7899,7 +8060,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -7918,7 +8079,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1081700600
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8001,7 +8162,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: d8d2b227396ca8b4f8e55023bcd247e5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c11803dcb05ebbf4dbe6979f3f58e857, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8046,7 +8207,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 71
+  m_RootOrder: 70
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -8065,7 +8226,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1090192122
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8148,7 +8309,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: ed1933700bc90e24e8d4155498adb8a4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6290f03844311914897ec8fff900a046, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8219,6 +8380,74 @@ MonoBehaviour:
   m_Spacing: {x: 40, y: 30}
   m_Constraint: 0
   m_ConstraintCount: 2
+--- !u!1 &1096917604
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1096917605}
+  - component: {fileID: 1096917607}
+  - component: {fileID: 1096917606}
+  m_Layer: 5
+  m_Name: LogoFooter
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1096917605
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1096917604}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 685574590}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -2.5082, y: 197.91}
+  m_SizeDelta: {x: 804.57, y: 186.27}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1096917606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1096917604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 0aba8e127f2f2544e9019506344335aa, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 1
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!222 &1096917607
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1096917604}
 --- !u!1 &1114331064
 GameObject:
   m_ObjectHideFlags: 0
@@ -8250,7 +8479,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 26
+  m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -8269,7 +8498,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1114331067
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8352,7 +8581,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 9e42d4a2c0bd91a4ab898e8b4158be3d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: edddf55a87e84bb46a23b6e1865c55f2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8397,7 +8626,7 @@ RectTransform:
   m_LocalScale: {x: 0.99926424, y: 0.99926424, z: 0.99926424}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 79
+  m_RootOrder: 78
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -8416,7 +8645,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1132972201
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8581,6 +8810,81 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1144199547}
+--- !u!1 &1153152175
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1153152176}
+  - component: {fileID: 1153152178}
+  - component: {fileID: 1153152177}
+  m_Layer: 5
+  m_Name: textDescription
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1153152176
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1153152175}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 685574590}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0.000020027, y: -277}
+  m_SizeDelta: {x: 498.4, y: 98.9}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1153152177
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1153152175}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: b5e654925f406354ab15b4282f8a8549, type: 3}
+    m_FontSize: 30
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 3
+    m_MaxSize: 50
+    m_Alignment: 1
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: "Digita este <b>c\xF3digo para recibir tu premio</b> y continuar nutri\xE9ndote
+    con el mejor entretenimiento."
+--- !u!222 &1153152178
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1153152175}
 --- !u!1 &1161016876
 GameObject:
   m_ObjectHideFlags: 0
@@ -8903,7 +9207,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 40
+  m_RootOrder: 39
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -8922,7 +9226,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1247512124
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9005,7 +9309,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 471f64d758ff12c408902276a4c29738, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0daa380050debf34eb89e9af9618c218, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -9050,7 +9354,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -9069,7 +9373,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1283119305
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9152,7 +9456,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: a6b282d04672c6942b911acbbdc35f79, type: 3}
+  m_Sprite: {fileID: 21300000, guid: cb2e35d35d1eff4408be00563fc89aa1, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -9197,7 +9501,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 37
+  m_RootOrder: 36
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -9216,7 +9520,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1309197529
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9299,7 +9603,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 91467bd84e676ab44a7a0b60becc9821, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 34d892bf392f8684694166f83a5e7d32, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -9344,7 +9648,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 21
+  m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -9363,7 +9667,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1334754027
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9446,7 +9750,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 22895e475283b5f49b2d2adf89a3c210, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 05a78c6d644f9f6428421c413bb4936c, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -9491,7 +9795,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -9510,7 +9814,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1349266741
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9593,7 +9897,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 0c7eb67f24cdc60418b0ee85cd3ff924, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 10aacb0188b95fb42a5ea36f416639a6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -9706,7 +10010,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 63
+  m_RootOrder: 62
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -9725,7 +10029,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1419226432
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9808,7 +10112,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 897cbf4817dcdcc46910f84cc7460584, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6661317c0571af949b1e188edd174977, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -9853,7 +10157,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 60
+  m_RootOrder: 59
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -9872,7 +10176,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1433186991
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9955,7 +10259,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 5b20aec015b0499429cca02502f739d5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f2c6157763d78a546886f74165a9fb5b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -10000,7 +10304,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 48
+  m_RootOrder: 47
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -10019,7 +10323,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1448721678
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10147,7 +10451,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 17
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -10166,7 +10470,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1469950342
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10249,7 +10553,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 761095336aa6ae0479e24a936006d593, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 46edf6fe38434ee4299fd82318d8a9ea, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -10294,7 +10598,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -10313,7 +10617,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1472064240
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10396,7 +10700,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 732031ba3c4bf6f4dac103ce2b64dd93, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ad095daf6e729344fa03f03152ab48b7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -10565,7 +10869,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 36
+  m_RootOrder: 35
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -10584,7 +10888,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1484061027
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10667,7 +10971,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 76fe81e087fc09547997ba04a09d3a6b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 15d3874ca6b185d49b1fb180adc272a7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -10780,7 +11084,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -10799,7 +11103,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1525615976
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10882,7 +11186,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 6b7fdb7b663cf5245b2c1667c117b10d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1a8e2f2b1b4b44f4088d4afc9b6cf23a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -10927,7 +11231,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 50
+  m_RootOrder: 49
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -10946,7 +11250,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1532007694
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11074,7 +11378,7 @@ RectTransform:
   m_LocalScale: {x: 0.99926424, y: 0.99926424, z: 0.99926424}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 78
+  m_RootOrder: 77
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -11093,7 +11397,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1560109280
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11221,7 +11525,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 58
+  m_RootOrder: 57
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -11240,7 +11544,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1594251814
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11323,7 +11627,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 3907d3f4d70b23f4b9a13a12b7c97b27, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 812e95ba5cb4a624294fad65ed829634, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -11398,7 +11702,7 @@ RectTransform:
   m_LocalScale: {x: 0.99926424, y: 0.99926424, z: 0.99926424}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 81
+  m_RootOrder: 80
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -11417,7 +11721,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1619852666
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11525,7 +11829,7 @@ GameObject:
   - component: {fileID: 1627927614}
   - component: {fileID: 1627927613}
   m_Layer: 5
-  m_Name: fox_Logo
+  m_Name: Trade_Logo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11546,8 +11850,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0.51, y: -159.97}
-  m_SizeDelta: {x: 199.81, y: 150.43}
+  m_AnchoredPosition: {x: 2.7, y: -243.1}
+  m_SizeDelta: {x: 333.2, y: 268.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1627927613
 MonoBehaviour:
@@ -11582,11 +11886,6 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1627927611}
---- !u!224 &1645923226 stripped
-RectTransform:
-  m_PrefabParentObject: {fileID: 224774262667446352, guid: 56491a967fa307d45a9ab10d0bf4d1f3,
-    type: 2}
-  m_PrefabInternal: {fileID: 180292660}
 --- !u!1 &1653508680
 GameObject:
   m_ObjectHideFlags: 0
@@ -11618,7 +11917,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 52
+  m_RootOrder: 51
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -11637,7 +11936,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1653508683
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11765,7 +12064,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 75
+  m_RootOrder: 74
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -11784,7 +12083,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1658953558
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11867,7 +12166,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 1be7236e580d0264d90ce0aaa4a09b08, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fa46b520f03e1c54fbf40fc3dcdd38ea, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -12147,7 +12446,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 25
+  m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -12166,7 +12465,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1700516391
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12249,7 +12548,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: cf50f334bc58fb84daf543f77816530f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a4827a9670bced149a36318707c04c5a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -12294,7 +12593,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 44
+  m_RootOrder: 43
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -12313,7 +12612,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1702020114
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12396,7 +12695,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 17945daacc29cf84984ac9bf4adfe27c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 489bcf90d655a694884ac4effda8ae2a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -12441,7 +12740,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 19
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -12460,7 +12759,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1709999401
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12543,7 +12842,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 119adaf6608f8434580f283c2e198b08, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6b61866d410ddec4984ec6ec8ed9aed9, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -12588,7 +12887,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -12607,7 +12906,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1711570263
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12690,7 +12989,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 8d96e5401b945f14ea1e2eed8d0aadce, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8ac838c9296335d459f60878710c6e80, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -12803,7 +13102,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 33
+  m_RootOrder: 32
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -12822,7 +13121,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1732509599
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12905,7 +13204,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 908322e55b6cc894c9a7b9bf147bae1d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b0ec1580ef950fe45a35a8b95421b688, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -12950,7 +13249,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 35
+  m_RootOrder: 34
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -12969,7 +13268,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1737031902
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13052,7 +13351,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 6fa34e35bc3213940bb3f738acb784b1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: dfb213e287524b34082afd9722161fed, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -13097,7 +13396,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -13116,7 +13415,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1751960347
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13199,7 +13498,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: ec3f5af48b0923449ab18bb5712b9283, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 770bce920d26103478cdac2e188a7058, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -13244,7 +13543,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -13263,7 +13562,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1757306707
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13346,7 +13645,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: c2509b43eeb92044b99c98375092d885, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9368881cb9be6c84b8c6dba0e909e7e5, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -13391,7 +13690,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 69
+  m_RootOrder: 68
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -13410,7 +13709,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1772615369
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13493,7 +13792,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 7a971d748e6c7ec46af8b5fa629b6b50, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8ba11dfd0e23c5d4199fcfc75ba6c0c7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -13668,7 +13967,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 23
+  m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -13687,7 +13986,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1815203867
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13770,7 +14069,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: ef05620b38681cf43aecc642df2cabff, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8fad3b95ad3b76b47ba23c8f6b00774c, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14209,7 +14508,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 18
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -14228,7 +14527,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1836975937
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14311,7 +14610,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 4f61b1e7af130054baaf21a1602da182, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3d497f77c9e1ff84b8d9fd4b065e6a0b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14424,7 +14723,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 65
+  m_RootOrder: 64
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -14443,7 +14742,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1859929698
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14526,7 +14825,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: e5e2fa4f599991c418ad603a2f1a8b54, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 963a8faf9d9e14841840b1d89cfe51e2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14571,7 +14870,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 34
+  m_RootOrder: 33
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -14590,7 +14889,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1877321925
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14673,7 +14972,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: dc3832d57616bef439415430e591f696, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e46feb0398838614f97bbc673da72c31, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14718,7 +15017,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -14737,7 +15036,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1917485630
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14820,7 +15119,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: aa8e6b9a88076144c8de6bb5848ba32a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8e0ccae47f660f3438ebd4056686bcf3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -14865,7 +15164,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 43
+  m_RootOrder: 42
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -14884,7 +15183,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1935854543
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14967,7 +15266,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: d692b322b3b45c0439b3320e9c565888, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 02c67a08652d57f4d87bb8920c38b607, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -15045,7 +15344,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -15064,7 +15363,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1950107638
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15147,7 +15446,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 0c1ed9abe86f876499b71047fb1628bb, type: 3}
+  m_Sprite: {fileID: 21300000, guid: de7af52db510b1742970e2de2857aa6b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -15192,7 +15491,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 22
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -15211,7 +15510,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1954520244
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15294,7 +15593,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: f347af42c62655148a2a18e765ee8588, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e3f38b3e65d572e4da3ecf914f33cee3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -15339,7 +15638,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 30
+  m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -15358,7 +15657,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1975708771
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15441,7 +15740,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: eb6c654dfce41f4418efd299be850b5d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a6089d3dd3fb32e459bd12ab564fcc33, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -15486,7 +15785,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 55
+  m_RootOrder: 54
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -15505,7 +15804,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &1996315314
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15883,7 +16182,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 2142971715}
-  ClickSound: {fileID: 8300000, guid: 03412a8f229a9415caafabb2faccc4f3, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!1 &2017139062
 GameObject:
   m_ObjectHideFlags: 0
@@ -16180,6 +16479,75 @@ MonoBehaviour:
       m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
     animationDuration: 0.5
+--- !u!1 &2066997453
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 2066997454}
+  - component: {fileID: 2066997456}
+  - component: {fileID: 2066997455}
+  m_Layer: 5
+  m_Name: PrizeContainer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2066997454
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2066997453}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 725779024}
+  m_Father: {fileID: 685574590}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: -155}
+  m_SizeDelta: {x: -509.05353, y: -1351.3284}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &2066997455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2066997453}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 0a9648e76678d5d48a6345376e04bf89, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!222 &2066997456
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2066997453}
 --- !u!1 &2083341672
 GameObject:
   m_ObjectHideFlags: 0
@@ -16211,7 +16579,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 47
+  m_RootOrder: 46
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -16230,7 +16598,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &2083341675
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16313,7 +16681,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 2231d258ad8e32c43821aecfc7ac0c77, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 85359a4a3d74795438276e9ed23cb0fc, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -16358,7 +16726,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 51
+  m_RootOrder: 50
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -16377,7 +16745,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &2117770391
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16505,7 +16873,7 @@ RectTransform:
   m_LocalScale: {x: 0.99982226, y: 0.99982226, z: 0.99982226}
   m_Children: []
   m_Father: {fileID: 946720505}
-  m_RootOrder: 45
+  m_RootOrder: 44
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -16524,7 +16892,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AudioSource: {fileID: 0}
-  ClickSound: {fileID: 8300000, guid: dc5a659a793d5431b82cbc8a4c9d5f14, type: 3}
+  ClickSound: {fileID: 8300000, guid: 48c778ef577a2d7419d5c5d7e2c13228, type: 3}
 --- !u!114 &2128125757
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16607,7 +16975,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 043f0573aaafd6b4f839b30892acb6e6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a89c093d41363bd478b0fd0a5a38c23e, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
