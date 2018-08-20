@@ -97,7 +97,7 @@ public class ScreenQuestionController : MonoBehaviour
         foreach (var item in answersEmoji)
         {
             item.GetComponent<Image>().color = Color.red;
-        } 
+        }
 #endif
 
         var optionsEmojis = emojis.Where(e => !answersEmoji.Contains(e)).ToList().Take(16 - answersEmoji.Count());
@@ -175,6 +175,23 @@ public class ScreenQuestionController : MonoBehaviour
         {
             //Show a Win Animation or something
             GameManager.instance.ShowWinScreen();
+            AudioSource.PlayClipAtPoint(wonFeedBack, Camera.main.transform.position);
+        }
+    }
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.PageDown))
+        {
+            GameManager.instance.ShowWinScreen();
+
+            AudioSource.PlayClipAtPoint(wonFeedBack, Camera.main.transform.position);
+        }
+
+        if(Input.GetKeyDown(KeyCode.PageUp))
+        {
+            GameManager.instance.ShowWinScreen();
+
             AudioSource.PlayClipAtPoint(wonFeedBack, Camera.main.transform.position);
         }
     }

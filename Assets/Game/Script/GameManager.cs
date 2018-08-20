@@ -26,8 +26,7 @@ public class GameManager : MonoBehaviour
 
     private void Awake()
     {
-        PlayerPrefs.DeleteAll();
-        instance = this;
+       instance = this;
     }
 
     public void OnMainScreenTouched()
@@ -102,6 +101,7 @@ public class GameManager : MonoBehaviour
         BlockScreen();
         prizeInformation.OpenCloseObjectAnimation();
         ScreenPrizeController.instance.LoadScreen();
+        ComManager.Instance.Send("A");
         screenCongratulation.OpenCloseObjectAnimation();
 
         Invoke("RestartGame", 10);
