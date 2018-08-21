@@ -42,7 +42,7 @@ public class ScreenPrizeController : MonoBehaviour {
                 LoadPrize(foxLife);
                 break;
             case Canal.FXM:
-                LoadPrize(fxPrize);
+                LoadPrize(fxmLifePrize);
                 break;
             case Canal.CINE_CANAL:
                 LoadPrize(CineCanalPrize);
@@ -57,7 +57,7 @@ public class ScreenPrizeController : MonoBehaviour {
                 LoadPrize(NatGeoWildPrize);
                 break;
             default:
-                LoadPrize(foxLife);
+                LoadPrize(foxPrize);
                 break;
         }
 
