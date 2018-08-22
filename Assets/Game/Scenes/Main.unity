@@ -178,7 +178,7 @@ MonoBehaviour:
     - {fileID: 2117770391}
     - {fileID: 1757306707}
     - {fileID: 2128125757}
-  - canal: 0
+  - canal: 1
     question: 'Ingredientes de American Crime Story '
     answers:
     - {fileID: 1525615976}
@@ -193,7 +193,6 @@ MonoBehaviour:
     - {fileID: 1349266741}
     - {fileID: 1472064240}
     - {fileID: 1081700600}
-    - {fileID: 1711570263}
   - canal: 1
     question: "As\xED te sientes con nuestra programaci\xF3n sin l\xEDmites: "
     answers:
@@ -245,7 +244,8 @@ MonoBehaviour:
     - {fileID: 1836975937}
     - {fileID: 932483100}
   - canal: 3
-    question: "FXM tiene t\xEDtulos que el p\xFAblico tiene en guardados en: "
+    question: "FXM tiene t\xEDtulos que el p\xFAblico tiene en su_ guardados en su
+      _"
     answers:
     - {fileID: 2083341675}
     - {fileID: 1732509599}
@@ -294,7 +294,7 @@ MonoBehaviour:
     question: "\xC1cido nucleico que contiene nuestras caracter\xEDsticas gen\xE9ticas. "
     answers:
     - {fileID: 1737031902}
-    - {fileID: 1737031902}
+    - {fileID: 1877321925}
     - {fileID: 542113705}
   - canal: 5
     question: "La historia de las civilizaciones ha tenido grandes \xEDconos tales
@@ -323,7 +323,7 @@ MonoBehaviour:
       de: "
     answers:
     - {fileID: 1448721678}
-    - {fileID: 1448721678}
+    - {fileID: 1594251814}
     - {fileID: 925098497}
   - canal: 6
     question: " Nat Geo Kids hace de los ni\xF1os y ni\xF1as agentes de cambio para
@@ -343,7 +343,7 @@ MonoBehaviour:
   - canal: 6
     question: 'Estos son los elementos que mejor describen a Nat Geo Kids '
     answers:
-    - {fileID: 802714934}
+    - {fileID: 1448721678}
     - {fileID: 1594251814}
     - {fileID: 210279985}
     - {fileID: 1653508683}
@@ -1273,8 +1273,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.000030518, y: 306}
-  m_SizeDelta: {x: 627.1, y: 125.8}
+  m_AnchoredPosition: {x: -0.000030518, y: 307.78}
+  m_SizeDelta: {x: 627.1, y: 195.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &200026096
 MonoBehaviour:
@@ -1308,7 +1308,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Los elementos de tus series favoritas de Fox \r\n"
+  m_Text: "Family guy es tan entretenido que podr\xE1s___ sin l\xEDmites\n12"
 --- !u!222 &200026097
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4136,28 +4136,28 @@ MonoBehaviour:
   code: {fileID: 725779025}
   foxPrize:
     code: A01
-    prize: {fileID: 21300000, guid: e9526ac861accbe47a9d7e87705ef5d6, type: 3}
+    prize: {fileID: 21300000, guid: 40d4d2d1d639842458e209c65e099e2d, type: 3}
   fxPrize:
     code: A02
-    prize: {fileID: 21300000, guid: e7e94d955fdef714e8ac8bec1b8cd914, type: 3}
+    prize: {fileID: 21300000, guid: a14b1020e4545cb4cb00325f6b643c20, type: 3}
   foxLife:
     code: A03
-    prize: {fileID: 21300000, guid: 96603e990a6b2be48b1ca4b1e37944ce, type: 3}
+    prize: {fileID: 21300000, guid: 07351837e31b94348a4d16b2fb03ab17, type: 3}
   fxmLifePrize:
     code: A04
-    prize: {fileID: 21300000, guid: 2f1468e87eefcf8439a251a34f70a985, type: 3}
+    prize: {fileID: 21300000, guid: a9c02dbdb10699547a67e2541cabcfff, type: 3}
   CineCanalPrize:
     code: A05
-    prize: {fileID: 21300000, guid: 7e89d4dd73b272a4da9e20feb593746a, type: 3}
+    prize: {fileID: 21300000, guid: 319e6c64a23f2dc40891b4960992d7e4, type: 3}
   NatGeoPrize:
     code: A06
-    prize: {fileID: 21300000, guid: ade88ecbb4d45824784184d211e566aa, type: 3}
+    prize: {fileID: 21300000, guid: e88bc15b7dcf7854eb5d4384e82f133d, type: 3}
   NatGeoKidsPrize:
     code: A07
-    prize: {fileID: 21300000, guid: 22f98963f61b2134594c5bcf2d102a23, type: 3}
+    prize: {fileID: 21300000, guid: ee2cce7fdfd4d8a49a785cae8a1a21b8, type: 3}
   NatGeoWildPrize:
     code: A08
-    prize: {fileID: 21300000, guid: a32586eeb09bd40428d04a3c957402d7, type: 3}
+    prize: {fileID: 21300000, guid: d5fb3abbce799ff4ab5474ebb710b9b6, type: 3}
 --- !u!1 &704271957
 GameObject:
   m_ObjectHideFlags: 0
@@ -16540,7 +16540,7 @@ MonoBehaviour:
         m_RotationOrder: 4
       StartPos: {x: -803, y: 0, z: 0}
       EndPos: {x: 0, y: 0, z: 0}
-      StartWorldPos: {x: -2.8367465, y: 5, z: 0}
+      StartWorldPos: {x: -2.833594, y: 5, z: 0}
       EndWorldPos: {x: 2.8125, y: 5, z: 0}
     ScalePropetiesAnim:
       scaleEnabled: 0

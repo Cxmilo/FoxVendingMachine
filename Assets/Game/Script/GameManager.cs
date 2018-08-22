@@ -26,7 +26,8 @@ public class GameManager : MonoBehaviour
 
     private void Awake()
     {
-       instance = this;
+        //PlayerPrefs.DeleteAll();
+        instance = this;
     }
 
     public void OnMainScreenTouched()
@@ -50,32 +51,26 @@ public class GameManager : MonoBehaviour
         blockPanel.SetActive(true);
         screenInstructions.OpenCloseObjectAnimation();
         questionScreen.Show();
-        List<string> usedQuestions = PlayerPrefs.GetString("usedQ").Split('|').ToList();
-        usedQuestions.Add(questions[0].question);
-        if (usedQuestions.Count < questions.Count)
+
+        int currentQuestion = PlayerPrefs.GetInt("CurrentQuestion",0);
+
+        if (currentQuestion < questions.Count-1)
         {
-            var unUsedQuestions = questions.Where(q => !usedQuestions.Contains(q.question)).ToList();
-            Debug.Log(unUsedQuestions.Count);
-
-            var questionRan = unUsedQuestions[Random.Range(0, unUsedQuestions.Count())];
-            questionScreen.LoadQuestion(questionRan);
-            usedQuestions.Add(questionRan.question);
-
-            string _usedQuestions = "";
-            foreach (var item in usedQuestions)
-            {
-                _usedQuestions += questionRan.question +"|";
-            }
-
-            PlayerPrefs.SetString("usedQ", _usedQuestions);
-            Debug.Log(PlayerPrefs.GetString("usedQ"));
+           
+            currentQuestion++;
 
         }
         else
         {
-            PlayerPrefs.SetString("usedQ", questions[0].question +"|" );
-            questionScreen.LoadQuestion(questions[0]);
+            currentQuestion = 0;
         }
+
+        var questionRan = questions[currentQuestion];
+        questionScreen.LoadQuestion(questionRan);
+
+
+        PlayerPrefs.SetInt("CurrentQuestion", currentQuestion);
+        Debug.Log(PlayerPrefs.GetString("usedQ"));
 
         Invoke("TurnOffBlockPanel", 1.5f);
     }
