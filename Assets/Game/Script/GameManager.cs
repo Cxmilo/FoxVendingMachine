@@ -96,7 +96,7 @@ public class GameManager : MonoBehaviour
         BlockScreen();
         prizeInformation.OpenCloseObjectAnimation();
         ScreenPrizeController.instance.LoadScreen();
-        ComManager.Instance.Send("A");
+        ComManager.Instance.Send("a");
         screenCongratulation.OpenCloseObjectAnimation();
 
         Invoke("RestartGame", 10);
@@ -124,6 +124,7 @@ public class GameManager : MonoBehaviour
 public struct Question
 {
     public Canal canal;
+    [TextArea]
     public string question;
     public List<Emoji> answers;
 }
