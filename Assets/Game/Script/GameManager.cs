@@ -83,6 +83,11 @@ public class GameManager : MonoBehaviour
         Invoke("RestartGame", 10);
     }
 
+    public void SwitchBlockScreen ()
+    {
+        blockPanel.SetActive(!blockPanel.activeInHierarchy);
+    }
+
     public void ShowWinScreen()
     {
         BlockScreen();
