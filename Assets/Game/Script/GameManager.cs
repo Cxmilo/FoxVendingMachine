@@ -28,6 +28,7 @@ public class GameManager : MonoBehaviour
     {
         //PlayerPrefs.DeleteAll();
         instance = this;
+        questions = questions.OrderBy(a => System.Guid.NewGuid()).ToList();
     }
 
     public void OnMainScreenTouched()

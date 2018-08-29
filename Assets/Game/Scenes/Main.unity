@@ -149,13 +149,6 @@ MonoBehaviour:
   prizeInformation: {fileID: 685574592}
   questions:
   - canal: 0
-    question: 'Estos son elementos de tus series favoritas de Fox:'
-    answers:
-    - {fileID: 581983357}
-    - {fileID: 2128125757}
-    - {fileID: 1532007694}
-    - {fileID: 941332063}
-  - canal: 0
     question: 'NO MOLESTAR: Cuando veo FOX no quiero que nadie me moleste por medio
       de: '
     answers:
@@ -163,208 +156,18 @@ MonoBehaviour:
     - {fileID: 972713912}
     - {fileID: 1247512124}
     - {fileID: 1560109283}
-  - canal: 0
-    question: 'Para disfrutar con amigos y familia te traemos lo mejor de: '
-    answers:
-    - {fileID: 704271960}
-    - {fileID: 1836975937}
-    - {fileID: 925644190}
-    - {fileID: 1950107638}
-  - canal: 0
-    question: "\xBFCu\xE1l es la mejor definici\xF3n de FOX? "
-    answers:
-    - {fileID: 1711570263}
-    - {fileID: 1090192122}
-    - {fileID: 2117770391}
-    - {fileID: 1757306707}
-    - {fileID: 2128125757}
-  - canal: 1
-    question: 'Ingredientes de American Crime Story '
-    answers:
-    - {fileID: 1525615976}
-    - {fileID: 1532007694}
-    - {fileID: 788662296}
-    - {fileID: 610631723}
-    - {fileID: 1075028878}
-    - {fileID: 1702020114}
-  - canal: 1
-    question: "Family Guy es tan entretenido que podr\xE1s___ sin l\xEDmites "
-    answers:
-    - {fileID: 1349266741}
-    - {fileID: 1472064240}
-    - {fileID: 1081700600}
-  - canal: 1
-    question: "As\xED te sientes con nuestra programaci\xF3n sin l\xEDmites: "
-    answers:
-    - {fileID: 610631723}
-    - {fileID: 948582133}
-    - {fileID: 1525615976}
-  - canal: 2
-    question: 'Emociones presentes en el contenido de FoxLife '
-    answers:
-    - {fileID: 587890478}
-    - {fileID: 252702908}
-    - {fileID: 1419226432}
-    - {fileID: 1010318978}
-  - canal: 2
-    question: 'El mejor plan para ver en: '
-    answers:
-    - {fileID: 1090192122}
-    - {fileID: 1702020114}
-    - {fileID: 29722012}
-    - {fileID: 1132972204}
-  - canal: 2
-    question: "Representa la mejor definici\xF3n de FoxLife "
-    answers:
-    - {fileID: 1015049690}
-    - {fileID: 819624072}
-    - {fileID: 1917485630}
-    - {fileID: 1090192122}
-  - canal: 3
-    question: "FXM: Pel\xEDculas para amantes al cine  "
-    answers:
-    - {fileID: 704271960}
-    - {fileID: 1950107638}
-    - {fileID: 2083341675}
-    - {fileID: 675165180}
-  - canal: 3
-    question: "Con las pel\xEDculas cl\xE1sicas de FXM  el p\xFAblico vibra con estas
-      emociones. "
-    answers:
-    - {fileID: 1081700600}
-    - {fileID: 1015049690}
-    - {fileID: 1349266741}
-    - {fileID: 1525615976}
-    - {fileID: 1283119305}
-  - canal: 3
-    question: "En FXM podr\xE1s disfrutar: "
-    answers:
-    - {fileID: 772676453}
-    - {fileID: 704271960}
-    - {fileID: 1836975937}
-    - {fileID: 932483100}
-  - canal: 3
-    question: "FXM tiene t\xEDtulos que el p\xFAblico tiene guardados en su:"
-    answers:
-    - {fileID: 2083341675}
-    - {fileID: 1732509599}
-  - canal: 4
-    question: "\xBFCu\xE1les de estos emojis describen mejor la experiencia de cine
-      en casa? "
-    answers:
-    - {fileID: 1836975937}
-    - {fileID: 925644190}
-    - {fileID: 1090192122}
-    - {fileID: 1950107638}
-    - {fileID: 1702020114}
   - canal: 4
     question: "Cuando ves Cinecanal te sientes as\xED: "
     answers:
     - {fileID: 1525615976}
     - {fileID: 1081700600}
     - {fileID: 767824761}
-  - canal: 4
-    question: 'Cinecanal es: '
+  - canal: 1
+    question: "As\xED te sientes con nuestra programaci\xF3n sin l\xEDmites: "
     answers:
-    - {fileID: 904173114}
-    - {fileID: 1950107638}
-    - {fileID: 1702020114}
-    - {fileID: 925644190}
-  - canal: 5
-    question: "Pr\xE1ctica para sonreirle a nuestro planeta "
-    answers:
-    - {fileID: 1700516391}
-    - {fileID: 1484061027}
-    - {fileID: 1472064240}
-  - canal: 5
-    question: ' Una de las razones por las que nuestro planeta nos pide ayuda: '
-    answers:
-    - {fileID: 1334754027}
-    - {fileID: 1751960347}
-    - {fileID: 1658953558}
-  - canal: 5
-    question: 'Parte de nuestro sistema solar '
-    answers:
-    - {fileID: 1975708771}
-    - {fileID: 1334754027}
-    - {fileID: 411280880}
-    - {fileID: 925098497}
-  - canal: 5
-    question: "\xC1cido nucleico que contiene nuestras caracter\xEDsticas gen\xE9ticas. "
-    answers:
-    - {fileID: 1737031902}
-    - {fileID: 1877321925}
-    - {fileID: 542113705}
-  - canal: 5
-    question: "La historia de las civilizaciones ha tenido grandes \xEDconos tales
-      como: "
-    answers:
-    - {fileID: 1935854543}
-    - {fileID: 56693167}
-    - {fileID: 129971420}
-    - {fileID: 1709999401}
-  - canal: 5
-    question: 'A una aventura a la Riviera Maya, esto debes llevar contigo: '
-    answers:
-    - {fileID: 1069879865}
-    - {fileID: 1996315314}
-    - {fileID: 281932186}
-    - {fileID: 1014698876}
-  - canal: 5
-    question: "Con Nat Geo podr\xE1s nutrirte de: "
-    answers:
-    - {fileID: 1594251814}
-    - {fileID: 1448721678}
-    - {fileID: 1334754027}
-    - {fileID: 1469950342}
-  - canal: 6
-    question: "Con Ready Jet Go los ni\xF1os y ni\xF1as podr\xE1n aprender acerca
-      de: "
-    answers:
-    - {fileID: 1448721678}
-    - {fileID: 1594251814}
-    - {fileID: 925098497}
-  - canal: 6
-    question: " Nat Geo Kids hace de los ni\xF1os y ni\xF1as agentes de cambio para
-      nuestro planeta haci\xE9ndolos protectores de: "
-    answers:
-    - {fileID: 1954520244}
-    - {fileID: 1815203867}
-    - {fileID: 145502926}
-    - {fileID: 1859929698}
-  - canal: 6
-    question: 'Nat Geo Kids hace que el mundo se convierta en una gran aventura con
-      estos ingredientes:  '
-    answers:
-    - {fileID: 1001659794}
-    - {fileID: 1075028878}
-    - {fileID: 802714934}
-  - canal: 6
-    question: 'Estos son los elementos que mejor describen a Nat Geo Kids '
-    answers:
-    - {fileID: 1448721678}
-    - {fileID: 1594251814}
-    - {fileID: 210279985}
-    - {fileID: 1653508683}
-    - {fileID: 1433186991}
-  - canal: 7
-    question: ' Es llamado el mago de la selva '
-    answers:
-    - {fileID: 63619026}
-    - {fileID: 1815203867}
-  - canal: 7
-    question: "Son las principales causas de la extinci\xF3n de muchas especies: "
-    answers:
-    - {fileID: 1114331067}
-    - {fileID: 1619852669}
-    - {fileID: 1309197529}
-    - {fileID: 539500084}
-  - canal: 7
-    question: "Con National Geographic Wild, esto podr\xE1s explorar: "
-    answers:
-    - {fileID: 1954520244}
-    - {fileID: 1815203867}
-    - {fileID: 226841182}
+    - {fileID: 610631723}
+    - {fileID: 948582133}
+    - {fileID: 1525615976}
   - canal: 7
     question: "Selecciona las im\xE1genes que mejor describan a National Geographic
       Wild "
@@ -374,6 +177,203 @@ MonoBehaviour:
     - {fileID: 1001659794}
     - {fileID: 1815203867}
     - {fileID: 210279985}
+  - canal: 3
+    question: "FXM: Pel\xEDculas para amantes al cine  "
+    answers:
+    - {fileID: 704271960}
+    - {fileID: 1950107638}
+    - {fileID: 2083341675}
+    - {fileID: 675165180}
+  - canal: 5
+    question: "La historia de las civilizaciones ha tenido grandes \xEDconos tales
+      como: "
+    answers:
+    - {fileID: 1935854543}
+    - {fileID: 56693167}
+    - {fileID: 129971420}
+    - {fileID: 1709999401}
+  - canal: 2
+    question: "Representa la mejor definici\xF3n de FoxLife "
+    answers:
+    - {fileID: 1015049690}
+    - {fileID: 819624072}
+    - {fileID: 1917485630}
+    - {fileID: 1090192122}
+  - canal: 5
+    question: "\xC1cido nucleico que contiene nuestras caracter\xEDsticas gen\xE9ticas. "
+    answers:
+    - {fileID: 1737031902}
+    - {fileID: 1877321925}
+    - {fileID: 542113705}
+  - canal: 0
+    question: 'Para disfrutar con amigos y familia te traemos lo mejor de: '
+    answers:
+    - {fileID: 704271960}
+    - {fileID: 1836975937}
+    - {fileID: 925644190}
+    - {fileID: 1950107638}
+  - canal: 7
+    question: "Son las principales causas de la extinci\xF3n de muchas especies: "
+    answers:
+    - {fileID: 1114331067}
+    - {fileID: 1619852669}
+    - {fileID: 1309197529}
+    - {fileID: 539500084}
+  - canal: 0
+    question: "\xBFCu\xE1l es la mejor definici\xF3n de FOX? "
+    answers:
+    - {fileID: 1711570263}
+    - {fileID: 1090192122}
+    - {fileID: 2117770391}
+    - {fileID: 1757306707}
+    - {fileID: 2128125757}
+  - canal: 7
+    question: "Con National Geographic Wild, esto podr\xE1s explorar: "
+    answers:
+    - {fileID: 1954520244}
+    - {fileID: 1815203867}
+    - {fileID: 226841182}
+  - canal: 6
+    question: " Nat Geo Kids hace de los ni\xF1os y ni\xF1as agentes de cambio para
+      nuestro planeta haci\xE9ndolos protectores de: "
+    answers:
+    - {fileID: 1954520244}
+    - {fileID: 1815203867}
+    - {fileID: 145502926}
+    - {fileID: 1859929698}
+  - canal: 4
+    question: "\xBFCu\xE1les de estos emojis describen mejor la experiencia de cine
+      en casa? "
+    answers:
+    - {fileID: 1836975937}
+    - {fileID: 925644190}
+    - {fileID: 1090192122}
+    - {fileID: 1950107638}
+    - {fileID: 1702020114}
+  - canal: 3
+    question: "Con las pel\xEDculas cl\xE1sicas de FXM  el p\xFAblico vibra con estas
+      emociones. "
+    answers:
+    - {fileID: 1081700600}
+    - {fileID: 1015049690}
+    - {fileID: 1349266741}
+    - {fileID: 1525615976}
+    - {fileID: 1283119305}
+  - canal: 5
+    question: "Pr\xE1ctica para sonreirle a nuestro planeta "
+    answers:
+    - {fileID: 1700516391}
+    - {fileID: 1484061027}
+    - {fileID: 1472064240}
+  - canal: 5
+    question: 'A una aventura a la Riviera Maya, esto debes llevar contigo: '
+    answers:
+    - {fileID: 1069879865}
+    - {fileID: 1996315314}
+    - {fileID: 281932186}
+    - {fileID: 1014698876}
+  - canal: 3
+    question: "En FXM podr\xE1s disfrutar: "
+    answers:
+    - {fileID: 772676453}
+    - {fileID: 704271960}
+    - {fileID: 1836975937}
+    - {fileID: 932483100}
+  - canal: 4
+    question: 'Cinecanal es: '
+    answers:
+    - {fileID: 904173114}
+    - {fileID: 1950107638}
+    - {fileID: 1702020114}
+    - {fileID: 925644190}
+  - canal: 2
+    question: 'El mejor plan para ver en: '
+    answers:
+    - {fileID: 1090192122}
+    - {fileID: 1702020114}
+    - {fileID: 29722012}
+    - {fileID: 1132972204}
+  - canal: 5
+    question: 'Parte de nuestro sistema solar '
+    answers:
+    - {fileID: 1975708771}
+    - {fileID: 1334754027}
+    - {fileID: 411280880}
+    - {fileID: 925098497}
+  - canal: 6
+    question: 'Nat Geo Kids hace que el mundo se convierta en una gran aventura con
+      estos ingredientes:  '
+    answers:
+    - {fileID: 1001659794}
+    - {fileID: 1075028878}
+    - {fileID: 802714934}
+  - canal: 5
+    question: ' Una de las razones por las que nuestro planeta nos pide ayuda: '
+    answers:
+    - {fileID: 1334754027}
+    - {fileID: 1751960347}
+    - {fileID: 1658953558}
+  - canal: 5
+    question: "Con Nat Geo podr\xE1s nutrirte de: "
+    answers:
+    - {fileID: 1594251814}
+    - {fileID: 1448721678}
+    - {fileID: 1334754027}
+    - {fileID: 1469950342}
+  - canal: 1
+    question: 'Ingredientes de American Crime Story '
+    answers:
+    - {fileID: 1525615976}
+    - {fileID: 1532007694}
+    - {fileID: 788662296}
+    - {fileID: 610631723}
+    - {fileID: 1075028878}
+    - {fileID: 1702020114}
+  - canal: 7
+    question: ' Es llamado el mago de la selva '
+    answers:
+    - {fileID: 63619026}
+    - {fileID: 1815203867}
+  - canal: 0
+    question: 'Estos son elementos de tus series favoritas de Fox:'
+    answers:
+    - {fileID: 581983357}
+    - {fileID: 2128125757}
+    - {fileID: 1532007694}
+    - {fileID: 941332063}
+  - canal: 1
+    question: "Family Guy es tan entretenido que podr\xE1s___ sin l\xEDmites "
+    answers:
+    - {fileID: 1349266741}
+    - {fileID: 1472064240}
+    - {fileID: 1081700600}
+  - canal: 3
+    question: "FXM tiene t\xEDtulos que el p\xFAblico tiene guardados en su:"
+    answers:
+    - {fileID: 2083341675}
+    - {fileID: 1732509599}
+  - canal: 2
+    question: 'Emociones presentes en el contenido de FoxLife '
+    answers:
+    - {fileID: 587890478}
+    - {fileID: 252702908}
+    - {fileID: 1419226432}
+    - {fileID: 1010318978}
+  - canal: 6
+    question: "Con Ready Jet Go los ni\xF1os y ni\xF1as podr\xE1n aprender acerca
+      de: "
+    answers:
+    - {fileID: 1448721678}
+    - {fileID: 1594251814}
+    - {fileID: 925098497}
+  - canal: 6
+    question: 'Estos son los elementos que mejor describen a Nat Geo Kids '
+    answers:
+    - {fileID: 1448721678}
+    - {fileID: 1594251814}
+    - {fileID: 210279985}
+    - {fileID: 1653508683}
+    - {fileID: 1433186991}
   blockPanel: {fileID: 1728357646}
 --- !u!4 &16211962
 Transform:
@@ -10764,7 +10764,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: -1, y: 136}
+  m_AnchoredPosition: {x: -1, y: 136.00003}
   m_SizeDelta: {x: 160, y: 147.79999}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1560109277
@@ -13336,7 +13336,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -830, y: -86}
+  m_AnchoredPosition: {x: -803, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1830097481
@@ -13351,7 +13351,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -13592,7 +13592,7 @@ RectTransform:
   m_GameObject: {fileID: 1833781650}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -1}
-  m_LocalScale: {x: 784, y: 1405.1, z: 1}
+  m_LocalScale: {x: 800, y: 1425.1, z: 1}
   m_Children: []
   m_Father: {fileID: 1830097480}
   m_RootOrder: 0
@@ -14933,7 +14933,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -81.48, y: -43}
+  m_AnchoredPosition: {x: -81.48001, y: -43}
   m_SizeDelta: {x: 162.96, y: 86}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1979917342
@@ -15777,7 +15777,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -155}
+  m_AnchoredPosition: {x: 0, y: -154.99997}
   m_SizeDelta: {x: -509.05353, y: -1351.3284}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2066997455
