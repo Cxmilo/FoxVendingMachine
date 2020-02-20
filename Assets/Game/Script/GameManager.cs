@@ -132,19 +132,22 @@ public struct Question
     public Canal canal;
     [TextArea]
     public string question;
+    public Sprite QuestionBackground;
     public List<Emoji> answers;
 }
 
 public enum Canal
 {
-    FOX,
-    FX,
-    FOX_LIFE,
-    FXM,
-    CINE_CANAL,
-    NATGEO,
-    NATGEOKIDS,
-    NATGEOWILD
+    Baseball,
+    Boxeo,
+    Ciclismo,
+    F1,
+    Futbol,
+    MotoGP,
+    NFL,
+    Rally,
+    Tenis,
+    UFC
 }
 
 

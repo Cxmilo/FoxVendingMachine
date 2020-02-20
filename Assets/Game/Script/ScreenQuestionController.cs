@@ -26,6 +26,10 @@ public class ScreenQuestionController : MonoBehaviour
 
     [Header("Questions Backgrounds")]
 
+    public bool useTVBackgrounds;
+
+    [Header("Questions Backgrounds")]
+
     public Sprite FOX;
     public Sprite FX;
     public Sprite FOX_LIFE;
@@ -58,32 +62,39 @@ public class ScreenQuestionController : MonoBehaviour
 
         Sprite backGround = FOX;
 
-        switch (currentQuestion.canal)
+        if (useTVBackgrounds)
         {
-            case Canal.FOX:
-                backGround = FOX;
-                break;
-            case Canal.FX:
-                backGround = FX;
-                break;
-            case Canal.FOX_LIFE:
-                backGround = FOX_LIFE;
-                break;
-            case Canal.FXM:
-                backGround = FXM;
-                break;
-            case Canal.CINE_CANAL:
-                backGround = CINE_CANAL;
-                break;
-            case Canal.NATGEO:
-                backGround = NATGEO;
-                break;
-            case Canal.NATGEOKIDS:
-                backGround = NATGEOKIDS;
-                break;
-            case Canal.NATGEOWILD:
-                backGround = NATGEOWILD;
-                break;
+            switch (currentQuestion.canal)
+            {
+                case Canal.Baseball:
+                    backGround = FOX;
+                    break;
+                case Canal.Boxeo:
+                    backGround = FX;
+                    break;
+                case Canal.Ciclismo:
+                    backGround = FOX_LIFE;
+                    break;
+                case Canal.F1:
+                    backGround = FXM;
+                    break;
+                case Canal.MotoGP:
+                    backGround = CINE_CANAL;
+                    break;
+                case Canal.NFL:
+                    backGround = NATGEO;
+                    break;
+                case Canal.Rally:
+                    backGround = NATGEOKIDS;
+                    break;
+                case Canal.Tenis:
+                    backGround = NATGEOWILD;
+                    break;
+            } 
+        }
+        else
+        {
+            backGround = question.QuestionBackground;
         }
 
         background.sprite = backGround;

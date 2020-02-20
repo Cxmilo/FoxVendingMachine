@@ -149,231 +149,131 @@ MonoBehaviour:
   prizeInformation: {fileID: 685574592}
   questions:
   - canal: 0
-    question: 'NO MOLESTAR: Cuando veo FOX no quiero que nadie me moleste por medio
-      de: '
-    answers:
-    - {fileID: 318337877}
-    - {fileID: 972713912}
-    - {fileID: 1247512124}
-    - {fileID: 1560109283}
-  - canal: 4
-    question: "Cuando ves Cinecanal te sientes as\xED: "
-    answers:
-    - {fileID: 1525615976}
-    - {fileID: 1081700600}
-    - {fileID: 767824761}
-  - canal: 1
-    question: "As\xED te sientes con nuestra programaci\xF3n sin l\xEDmites: "
-    answers:
-    - {fileID: 610631723}
-    - {fileID: 948582133}
-    - {fileID: 1525615976}
-  - canal: 7
-    question: "Selecciona las im\xE1genes que mejor describan a National Geographic
-      Wild "
-    answers:
-    - {fileID: 457687316}
-    - {fileID: 1772615369}
-    - {fileID: 1001659794}
-    - {fileID: 1815203867}
-    - {fileID: 210279985}
-  - canal: 3
-    question: "FXM: Pel\xEDculas para amantes al cine  "
-    answers:
-    - {fileID: 704271960}
-    - {fileID: 1950107638}
-    - {fileID: 2083341675}
-    - {fileID: 675165180}
-  - canal: 5
-    question: "La historia de las civilizaciones ha tenido grandes \xEDconos tales
-      como: "
-    answers:
-    - {fileID: 1935854543}
-    - {fileID: 56693167}
-    - {fileID: 129971420}
-    - {fileID: 1709999401}
-  - canal: 2
-    question: "Representa la mejor definici\xF3n de FoxLife "
-    answers:
-    - {fileID: 1015049690}
-    - {fileID: 819624072}
-    - {fileID: 1917485630}
-    - {fileID: 1090192122}
-  - canal: 5
-    question: "\xC1cido nucleico que contiene nuestras caracter\xEDsticas gen\xE9ticas. "
-    answers:
-    - {fileID: 1737031902}
-    - {fileID: 1877321925}
-    - {fileID: 542113705}
-  - canal: 0
-    question: 'Para disfrutar con amigos y familia te traemos lo mejor de: '
-    answers:
-    - {fileID: 704271960}
-    - {fileID: 1836975937}
-    - {fileID: 925644190}
-    - {fileID: 1950107638}
-  - canal: 7
-    question: "Son las principales causas de la extinci\xF3n de muchas especies: "
+    question: 
+    QuestionBackground: {fileID: 21300000, guid: 9328c80d85916a440a0469dfea3d04be,
+      type: 3}
     answers:
     - {fileID: 1114331067}
-    - {fileID: 1619852669}
-    - {fileID: 1309197529}
-    - {fileID: 539500084}
   - canal: 0
-    question: "\xBFCu\xE1l es la mejor definici\xF3n de FOX? "
+    question: 
+    QuestionBackground: {fileID: 21300000, guid: 70517ace157dd6c4bb1e5a18052e5c39,
+      type: 3}
     answers:
-    - {fileID: 1711570263}
-    - {fileID: 1090192122}
-    - {fileID: 2117770391}
-    - {fileID: 1757306707}
-    - {fileID: 2128125757}
-  - canal: 7
-    question: "Con National Geographic Wild, esto podr\xE1s explorar: "
-    answers:
-    - {fileID: 1954520244}
-    - {fileID: 1815203867}
-    - {fileID: 226841182}
-  - canal: 6
-    question: " Nat Geo Kids hace de los ni\xF1os y ni\xF1as agentes de cambio para
-      nuestro planeta haci\xE9ndolos protectores de: "
-    answers:
-    - {fileID: 1954520244}
-    - {fileID: 1815203867}
-    - {fileID: 145502926}
-    - {fileID: 1859929698}
-  - canal: 4
-    question: "\xBFCu\xE1les de estos emojis describen mejor la experiencia de cine
-      en casa? "
-    answers:
-    - {fileID: 1836975937}
-    - {fileID: 925644190}
-    - {fileID: 1090192122}
-    - {fileID: 1950107638}
-    - {fileID: 1702020114}
-  - canal: 3
-    question: "Con las pel\xEDculas cl\xE1sicas de FXM  el p\xFAblico vibra con estas
-      emociones. "
-    answers:
-    - {fileID: 1081700600}
-    - {fileID: 1015049690}
-    - {fileID: 1349266741}
-    - {fileID: 1525615976}
-    - {fileID: 1283119305}
-  - canal: 5
-    question: "Pr\xE1ctica para sonreirle a nuestro planeta "
-    answers:
-    - {fileID: 1700516391}
-    - {fileID: 1484061027}
-    - {fileID: 1472064240}
-  - canal: 5
-    question: 'A una aventura a la Riviera Maya, esto debes llevar contigo: '
-    answers:
-    - {fileID: 1069879865}
-    - {fileID: 1996315314}
-    - {fileID: 281932186}
-    - {fileID: 1014698876}
-  - canal: 3
-    question: "En FXM podr\xE1s disfrutar: "
-    answers:
-    - {fileID: 772676453}
-    - {fileID: 704271960}
-    - {fileID: 1836975937}
-    - {fileID: 932483100}
-  - canal: 4
-    question: 'Cinecanal es: '
-    answers:
-    - {fileID: 904173114}
-    - {fileID: 1950107638}
-    - {fileID: 1702020114}
-    - {fileID: 925644190}
-  - canal: 2
-    question: 'El mejor plan para ver en: '
-    answers:
-    - {fileID: 1090192122}
-    - {fileID: 1702020114}
-    - {fileID: 29722012}
-    - {fileID: 1132972204}
-  - canal: 5
-    question: 'Parte de nuestro sistema solar '
-    answers:
-    - {fileID: 1975708771}
-    - {fileID: 1334754027}
-    - {fileID: 411280880}
-    - {fileID: 925098497}
-  - canal: 6
-    question: 'Nat Geo Kids hace que el mundo se convierta en una gran aventura con
-      estos ingredientes:  '
-    answers:
-    - {fileID: 1001659794}
-    - {fileID: 1075028878}
-    - {fileID: 802714934}
-  - canal: 5
-    question: ' Una de las razones por las que nuestro planeta nos pide ayuda: '
-    answers:
-    - {fileID: 1334754027}
-    - {fileID: 1751960347}
-    - {fileID: 1658953558}
-  - canal: 5
-    question: "Con Nat Geo podr\xE1s nutrirte de: "
-    answers:
-    - {fileID: 1594251814}
-    - {fileID: 1448721678}
-    - {fileID: 1334754027}
-    - {fileID: 1469950342}
-  - canal: 1
-    question: 'Ingredientes de American Crime Story '
-    answers:
-    - {fileID: 1525615976}
-    - {fileID: 1532007694}
-    - {fileID: 788662296}
-    - {fileID: 610631723}
-    - {fileID: 1075028878}
-    - {fileID: 1702020114}
-  - canal: 7
-    question: ' Es llamado el mago de la selva '
-    answers:
-    - {fileID: 63619026}
-    - {fileID: 1815203867}
+    - {fileID: 1114331067}
   - canal: 0
-    question: 'Estos son elementos de tus series favoritas de Fox:'
+    question: 
+    QuestionBackground: {fileID: 21300000, guid: 904d81fdab76ca44682db67c5aa7f6ad,
+      type: 3}
     answers:
-    - {fileID: 581983357}
-    - {fileID: 2128125757}
-    - {fileID: 1532007694}
-    - {fileID: 941332063}
+    - {fileID: 1114331067}
   - canal: 1
-    question: "Family Guy es tan entretenido que podr\xE1s___ sin l\xEDmites "
+    question: 
+    QuestionBackground: {fileID: 21300000, guid: 8cff441493874d341a6aaf77b353fbae,
+      type: 3}
     answers:
-    - {fileID: 1349266741}
-    - {fileID: 1472064240}
-    - {fileID: 1081700600}
-  - canal: 3
-    question: "FXM tiene t\xEDtulos que el p\xFAblico tiene guardados en su:"
-    answers:
-    - {fileID: 2083341675}
-    - {fileID: 1732509599}
-  - canal: 2
-    question: 'Emociones presentes en el contenido de FoxLife '
-    answers:
-    - {fileID: 587890478}
-    - {fileID: 252702908}
-    - {fileID: 1419226432}
-    - {fileID: 1010318978}
-  - canal: 6
-    question: "Con Ready Jet Go los ni\xF1os y ni\xF1as podr\xE1n aprender acerca
-      de: "
-    answers:
-    - {fileID: 1448721678}
-    - {fileID: 1594251814}
-    - {fileID: 925098497}
-  - canal: 6
-    question: 'Estos son los elementos que mejor describen a Nat Geo Kids '
-    answers:
-    - {fileID: 1448721678}
-    - {fileID: 1594251814}
     - {fileID: 210279985}
-    - {fileID: 1653508683}
-    - {fileID: 1433186991}
+  - canal: 2
+    question: 
+    QuestionBackground: {fileID: 21300000, guid: eb1280281933c054b816cdb26d3c8855,
+      type: 3}
+    answers:
+    - {fileID: 252702908}
+  - canal: 2
+    question: 
+    QuestionBackground: {fileID: 21300000, guid: 84bbfc00872b20e45bbca6041232194b,
+      type: 3}
+    answers:
+    - {fileID: 252702908}
+  - canal: 2
+    question: 
+    QuestionBackground: {fileID: 21300000, guid: c180f370c19dc4745bbd158a66b875eb,
+      type: 3}
+    answers:
+    - {fileID: 252702908}
+  - canal: 3
+    question: 
+    QuestionBackground: {fileID: 21300000, guid: 8e9cc6c7960d8a24394ec34ae052fec1,
+      type: 3}
+    answers:
+    - {fileID: 1709999401}
+  - canal: 4
+    question: 
+    QuestionBackground: {fileID: 21300000, guid: 3ceafa91317b17f4aa1bfb738b60c63e,
+      type: 3}
+    answers:
+    - {fileID: 704271960}
+  - canal: 4
+    question: 
+    QuestionBackground: {fileID: 21300000, guid: 8dfa5b6f4e1434442809d6514087c09b,
+      type: 3}
+    answers:
+    - {fileID: 704271960}
+  - canal: 4
+    question: 
+    QuestionBackground: {fileID: 21300000, guid: 3f58d67478e0baa4485c30a3fc91c3be,
+      type: 3}
+    answers:
+    - {fileID: 704271960}
+  - canal: 4
+    question: 
+    QuestionBackground: {fileID: 21300000, guid: 16d701f359d3f2547a24a4359f52d725,
+      type: 3}
+    answers:
+    - {fileID: 704271960}
+  - canal: 4
+    question: 
+    QuestionBackground: {fileID: 21300000, guid: 4817f14dd4933cc49873a299a3f89811,
+      type: 3}
+    answers:
+    - {fileID: 704271960}
+  - canal: 4
+    question: 
+    QuestionBackground: {fileID: 21300000, guid: ebbbc773111abff429f6baae0ea501d0,
+      type: 3}
+    answers:
+    - {fileID: 704271960}
+  - canal: 5
+    question: 
+    QuestionBackground: {fileID: 21300000, guid: 392bf1aff02c1f842825e35b336fabcf,
+      type: 3}
+    answers:
+    - {fileID: 1950107638}
+  - canal: 6
+    question: 
+    QuestionBackground: {fileID: 21300000, guid: 2def99db53fe8c14488c0726a2b6d374,
+      type: 3}
+    answers:
+    - {fileID: 145502926}
+  - canal: 7
+    question: 
+    QuestionBackground: {fileID: 21300000, guid: 940baadb0ea404344b338094d1be7c3b,
+      type: 3}
+    answers:
+    - {fileID: 1954520244}
+  - canal: 8
+    question: 
+    QuestionBackground: {fileID: 21300000, guid: 77823e12fe9438b4ab929899650748bc,
+      type: 3}
+    answers:
+    - {fileID: 1349266741}
+  - canal: 8
+    question: 
+    QuestionBackground: {fileID: 21300000, guid: cbac75ab7888efa4891caf8f3cc512d2,
+      type: 3}
+    answers:
+    - {fileID: 1349266741}
+  - canal: 8
+    question: 
+    QuestionBackground: {fileID: 21300000, guid: 32243392a6e14cf47aa6923e1164dcde,
+      type: 3}
+    answers:
+    - {fileID: 1349266741}
+  - canal: 9
+    question: 
+    QuestionBackground: {fileID: 21300000, guid: f20189dd500aa18478358c5bb0032e93,
+      type: 3}
+    answers:
+    - {fileID: 1815203867}
   blockPanel: {fileID: 1728357646}
 --- !u!4 &16211962
 Transform:
@@ -523,7 +423,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 794e7236bedb5a446a9f740564194f3e, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -670,7 +570,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 281c1c90d11250e48a2ea4491db4f5f9, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -817,7 +717,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 8bac1c84c661810429c16b94544cdf25, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -1082,7 +982,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 30f8d1b95de92534f98b4085e073cde0, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -1229,7 +1129,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: d53f74fd6b7cb894d8b4288f28ed61be, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -1273,8 +1173,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000005722, y: 304}
-  m_SizeDelta: {x: 654, y: 195.3}
+  m_AnchoredPosition: {x: 1, y: 374.9}
+  m_SizeDelta: {x: 763.6, y: 117.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &200026096
 MonoBehaviour:
@@ -1450,7 +1350,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: c15dadcbd90fc174ea82674a0e8183b4, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -1597,7 +1497,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: f01e13d2043c0e84fb856215a704d264, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -1744,7 +1644,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 3e586279c740d0d47a3f1ee9fcc923e8, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -1891,7 +1791,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: a840eef11a4bff64584b98d62950a410, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -1938,7 +1838,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -299.4}
+  m_AnchoredPosition: {x: 0, y: -511}
   m_SizeDelta: {x: 285.23, y: 83.41}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &303338948
@@ -2174,7 +2074,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 87a78513d3a1c004f9594731d413c7df, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -2351,8 +2251,8 @@ MonoBehaviour:
         m_RotationOrder: 4
       StartPos: {x: -803, y: 0, z: 0}
       EndPos: {x: 0, y: 0, z: 0}
-      StartWorldPos: {x: -2.8335934, y: 5, z: 0}
-      EndWorldPos: {x: 2.8125002, y: 5, z: 0}
+      StartWorldPos: {x: -2.8301432, y: 5, z: 0}
+      EndWorldPos: {x: 2.8124998, y: 5, z: 0}
     ScalePropetiesAnim:
       scaleEnabled: 0
       TweenCurveEnterScale:
@@ -2438,8 +2338,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.7, y: 109.8}
-  m_SizeDelta: {x: 727, y: 123.6}
+  m_AnchoredPosition: {x: 1.7, y: 182}
+  m_SizeDelta: {x: 727, y: 84.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &385911398
 MonoBehaviour:
@@ -2599,7 +2499,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: aa09217d007526c46baf741b07714b6e, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -2746,7 +2646,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: fe26b3becaa3bc243a7e3322c3e802df, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -3008,7 +2908,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 7fe7c107964a2b84cada5c720357f61b, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -3144,7 +3044,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 06cb4f549c40bbc4481330b91bf791d3, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -3302,7 +3202,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 847b1f0b836eeea4eb8bab16ce046add, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -3449,7 +3349,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 5ab2c4df3630b9d449efc0c0fc6b6a21, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -3596,7 +3496,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 577352d3125fa3c429e9ad84d8f1cb93, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -3743,7 +3643,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: cc0f55ef9f2d0ba4fbbeda9668c85d3b, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -3889,8 +3789,8 @@ MonoBehaviour:
         m_RotationOrder: 4
       StartPos: {x: -803, y: 0, z: 0}
       EndPos: {x: 0, y: 0, z: 0}
-      StartWorldPos: {x: -2.8367465, y: 5, z: 0}
-      EndWorldPos: {x: 2.8125, y: 5, z: 0}
+      StartWorldPos: {x: -2.8301432, y: 5, z: 0}
+      EndWorldPos: {x: 2.8124998, y: 5, z: 0}
     ScalePropetiesAnim:
       scaleEnabled: 0
       TweenCurveEnterScale:
@@ -3992,29 +3892,35 @@ MonoBehaviour:
   logo: {fileID: 0}
   prize: {fileID: 931991375}
   code: {fileID: 725779025}
-  foxPrize:
-    code: D6
+  BaseballPrize:
+    code: D9
+    prize: {fileID: 21300000, guid: 319e6c64a23f2dc40891b4960992d7e4, type: 3}
+  BoxeoPrize:
+    code: D2
+    prize: {fileID: 21300000, guid: a9c02dbdb10699547a67e2541cabcfff, type: 3}
+  CiclismoPrize:
+    code: E0
     prize: {fileID: 21300000, guid: 40d4d2d1d639842458e209c65e099e2d, type: 3}
-  fxPrize:
-    code: E4
-    prize: {fileID: 21300000, guid: a14b1020e4545cb4cb00325f6b643c20, type: 3}
-  foxLife:
+  F1Prize:
+    code: D6
+    prize: {fileID: 21300000, guid: fc8805d7008539044a55b6b8e27e6481, type: 3}
+  FutbolPrize:
+    code: D3
+    prize: {fileID: 21300000, guid: e88bc15b7dcf7854eb5d4384e82f133d, type: 3}
+  MotoGPPrize:
     code: D4
     prize: {fileID: 21300000, guid: 07351837e31b94348a4d16b2fb03ab17, type: 3}
-  fxmLifePrize:
-    code: E8
-    prize: {fileID: 21300000, guid: a9c02dbdb10699547a67e2541cabcfff, type: 3}
-  CineCanalPrize:
-    code: E6
-    prize: {fileID: 21300000, guid: 319e6c64a23f2dc40891b4960992d7e4, type: 3}
-  NatGeoPrize:
-    code: E2
-    prize: {fileID: 21300000, guid: e88bc15b7dcf7854eb5d4384e82f133d, type: 3}
-  NatGeoKidsPrize:
-    code: D3
+  NFLPrize:
+    code: E4
     prize: {fileID: 21300000, guid: ee2cce7fdfd4d8a49a785cae8a1a21b8, type: 3}
-  NatGeoWildPrize:
-    code: E0
+  RallyPrize:
+    code: D8
+    prize: {fileID: 21300000, guid: d75e603dcf476f74fbbed78c32ae213e, type: 3}
+  TenisPrize:
+    code: E6
+    prize: {fileID: 21300000, guid: 5ced6665752362841862c02b8203801c, type: 3}
+  UFCPrize:
+    code: E8
     prize: {fileID: 21300000, guid: d5fb3abbce799ff4ab5474ebb710b9b6, type: 3}
 --- !u!1 &704271957
 GameObject:
@@ -4151,7 +4057,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 359f0c02a65ccde418f7c687d663356f, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -4210,7 +4116,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -4401,8 +4307,8 @@ MonoBehaviour:
         m_RotationOrder: 4
       StartPos: {x: -803, y: 0, z: 0}
       EndPos: {x: 0, y: 0, z: 0}
-      StartWorldPos: {x: -2.8367465, y: 5, z: 0}
-      EndWorldPos: {x: 2.8125, y: 5, z: 0}
+      StartWorldPos: {x: -2.8301432, y: 5, z: 0}
+      EndWorldPos: {x: 2.8124998, y: 5, z: 0}
     ScalePropetiesAnim:
       scaleEnabled: 0
       TweenCurveEnterScale:
@@ -4592,7 +4498,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 4a3aa758ded61ea4389bdc99f2f096f6, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -4739,7 +4645,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 2d39e920c9719f74ca517e0c04135e6d, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -4886,7 +4792,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 16c4298645db4a74ea475090a40a3a3b, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -5033,7 +4939,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 4a49d62f0767fa64e84c8198bbf9b038, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -5180,7 +5086,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: f2885308f36420046ba53fecdd0a5ecc, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -5401,7 +5307,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 865b0deb2abf2c14a8f59a2d32cf2970, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -5548,7 +5454,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: c271b1c03bca1304dab3b7ef46b41689, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -5695,7 +5601,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 689fb4012cf989e45ac624bb175cd310, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -5910,7 +5816,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 70bd917d1a2dfd44fa94ffeaa8527467, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -6057,7 +5963,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: f48e91b32ea31a3449d070f793464df6, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -6513,7 +6419,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 828fd9d62bd181c42864cb381a47dd71, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -6660,7 +6566,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 72c2974253aca164e8e482db2e9b4c41, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -6808,8 +6714,8 @@ MonoBehaviour:
         m_RotationOrder: 4
       StartPos: {x: -803, y: 0, z: 0}
       EndPos: {x: 0, y: 0, z: 0}
-      StartWorldPos: {x: -2.8367465, y: 5, z: 0}
-      EndWorldPos: {x: 2.8125, y: 5, z: 0}
+      StartWorldPos: {x: -2.8301432, y: 5, z: 0}
+      EndWorldPos: {x: 2.8124998, y: 5, z: 0}
     ScalePropetiesAnim:
       scaleEnabled: 0
       TweenCurveEnterScale:
@@ -6878,6 +6784,7 @@ MonoBehaviour:
   currentQuestion:
     canal: 0
     question: 
+    QuestionBackground: {fileID: 0}
     answers:
     - {fileID: 0}
   background: {fileID: 2006107739}
@@ -6888,6 +6795,7 @@ MonoBehaviour:
   animationContainer: {fileID: 1949167837}
   wonFeedBack: {fileID: 8300000, guid: ef31d52f291a6b345a67cc279d41fe7c, type: 3}
   loseFeedBack: {fileID: 8300000, guid: 3dd5bdaeeb75af748a0ff3ec5485e027, type: 3}
+  useTVBackgrounds: 0
   FOX: {fileID: 21300000, guid: 5b8b06e2121db144cbc18d1e00c6f641, type: 3}
   FX: {fileID: 21300000, guid: 1bd74fab2d3800943ad0839007ae6097, type: 3}
   FOX_LIFE: {fileID: 21300000, guid: 8ffc3fb89222abc4e831bd76396a7509, type: 3}
@@ -7045,7 +6953,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 05e751209105ed844a73c2a434600558, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -7192,7 +7100,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: c68b766333d15fd488d94fa080e4d00d, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -7339,7 +7247,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 3af1701a6ad07fb439de9ffb6aedfd71, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -7486,7 +7394,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 92d9d43d9170c494aa13d8e0bb629ef7, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -7633,7 +7541,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 4341d7405025d094893cc7411e0d9ca7, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -7780,7 +7688,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 0a0e818d780625a4fa630a9bb99162e1, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -7927,7 +7835,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: c11803dcb05ebbf4dbe6979f3f58e857, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -8074,7 +7982,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 6290f03844311914897ec8fff900a046, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -8117,8 +8025,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.6999931, y: -342.7}
-  m_SizeDelta: {x: 727, y: 620.9}
+  m_AnchoredPosition: {x: 1.6999931, y: -320}
+  m_SizeDelta: {x: 727, y: 575.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1092072122
 MonoBehaviour:
@@ -8278,7 +8186,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: edddf55a87e84bb46a23b6e1865c55f2, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -8414,7 +8322,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 69ba74f8b43b78a41aafc10585f12dd8, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -8602,8 +8510,8 @@ MonoBehaviour:
         m_RotationOrder: 4
       StartPos: {x: -803, y: 0, z: 0}
       EndPos: {x: 0, y: 0, z: 0}
-      StartWorldPos: {x: -2.8335938, y: 5, z: 0}
-      EndWorldPos: {x: 2.8125002, y: 5, z: 0}
+      StartWorldPos: {x: -2.8301432, y: 5, z: 0}
+      EndWorldPos: {x: 2.8124998, y: 5, z: 0}
     ScalePropetiesAnim:
       scaleEnabled: 0
       TweenCurveEnterScale:
@@ -8793,7 +8701,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 0daa380050debf34eb89e9af9618c218, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -8940,7 +8848,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: cb2e35d35d1eff4408be00563fc89aa1, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -9087,7 +8995,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 34d892bf392f8684694166f83a5e7d32, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -9234,7 +9142,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 05a78c6d644f9f6428421c413bb4936c, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -9381,7 +9289,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 10aacb0188b95fb42a5ea36f416639a6, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -9528,7 +9436,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 6661317c0571af949b1e188edd174977, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -9675,7 +9583,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: f2c6157763d78a546886f74165a9fb5b, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -9822,7 +9730,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: f84d4e5f55798d940bd90de77ce66f68, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -9969,7 +9877,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 46edf6fe38434ee4299fd82318d8a9ea, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -10116,7 +10024,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: ad095daf6e729344fa03f03152ab48b7, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -10387,7 +10295,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 15d3874ca6b185d49b1fb180adc272a7, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -10534,7 +10442,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 1a8e2f2b1b4b44f4088d4afc9b6cf23a, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -10681,7 +10589,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 7c37ccf0e34a80741ab44d48cc4aba0c, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -10764,7 +10672,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: -1, y: 136.00003}
+  m_AnchoredPosition: {x: -1, y: 136}
   m_SizeDelta: {x: 160, y: 147.79999}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1560109277
@@ -10891,7 +10799,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 7a8148839b3c9f241a2206732070117c, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -11049,7 +10957,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 812e95ba5cb4a624294fad65ed829634, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -11215,7 +11123,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 32c6e0ec477501c43877b2b69254df48, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -11373,7 +11281,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 064bfa95f6eb1da49962d1c32c103cc6, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -11520,7 +11428,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: fa46b520f03e1c54fbf40fc3dcdd38ea, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -11834,7 +11742,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: a4827a9670bced149a36318707c04c5a, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -11981,7 +11889,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 489bcf90d655a694884ac4effda8ae2a, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -12128,7 +12036,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 6b61866d410ddec4984ec6ec8ed9aed9, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -12275,7 +12183,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 8ac838c9296335d459f60878710c6e80, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -12490,7 +12398,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: b0ec1580ef950fe45a35a8b95421b688, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -12637,7 +12545,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: dfb213e287524b34082afd9722161fed, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -12784,7 +12692,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 770bce920d26103478cdac2e188a7058, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -12931,7 +12839,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 9368881cb9be6c84b8c6dba0e909e7e5, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -13078,7 +12986,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 8ba11dfd0e23c5d4199fcfc75ba6c0c7, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -13287,7 +13195,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 8fad3b95ad3b76b47ba23c8f6b00774c, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -13466,8 +13374,8 @@ MonoBehaviour:
         m_RotationOrder: 4
       StartPos: {x: -803, y: 0, z: 0}
       EndPos: {x: 0, y: 0, z: 0}
-      StartWorldPos: {x: -2.8367465, y: 5, z: 0}
-      EndWorldPos: {x: 2.8125, y: 5, z: 0}
+      StartWorldPos: {x: -2.8301432, y: 5, z: 0}
+      EndWorldPos: {x: 2.8124998, y: 5, z: 0}
     ScalePropetiesAnim:
       scaleEnabled: 0
       TweenCurveEnterScale:
@@ -13826,7 +13734,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 3d497f77c9e1ff84b8d9fd4b065e6a0b, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -13973,7 +13881,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 963a8faf9d9e14841840b1d89cfe51e2, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -14120,7 +14028,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: e46feb0398838614f97bbc673da72c31, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -14267,7 +14175,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 8e0ccae47f660f3438ebd4056686bcf3, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -14414,7 +14322,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 02c67a08652d57f4d87bb8920c38b607, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -14594,7 +14502,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: de7af52db510b1742970e2de2857aa6b, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -14741,7 +14649,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: e3f38b3e65d572e4da3ecf914f33cee3, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -14888,7 +14796,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: a6089d3dd3fb32e459bd12ab564fcc33, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -15156,7 +15064,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 7e4b05c6f45e111429c579a640d6d942, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -15300,7 +15208,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 5b8b06e2121db144cbc18d1e00c6f641, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3ceafa91317b17f4aa1bfb738b60c63e, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -15688,8 +15596,8 @@ MonoBehaviour:
         m_RotationOrder: 4
       StartPos: {x: -803, y: 0, z: 0}
       EndPos: {x: 0, y: 0, z: 0}
-      StartWorldPos: {x: -2.833594, y: 5, z: 0}
-      EndWorldPos: {x: 2.8125, y: 5, z: 0}
+      StartWorldPos: {x: -2.8301432, y: 5, z: 0}
+      EndWorldPos: {x: 2.8124998, y: 5, z: 0}
     ScalePropetiesAnim:
       scaleEnabled: 0
       TweenCurveEnterScale:
@@ -15777,7 +15685,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -154.99997}
+  m_AnchoredPosition: {x: 0, y: -553}
   m_SizeDelta: {x: -509.05353, y: -1351.3284}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2066997455
@@ -15786,7 +15694,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2066997453}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
@@ -15948,7 +15856,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 85359a4a3d74795438276e9ed23cb0fc, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -16095,7 +16003,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 61510700228baca42ac92097bfe73fc5, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -16242,7 +16150,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: a89c093d41363bd478b0fd0a5a38c23e, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
