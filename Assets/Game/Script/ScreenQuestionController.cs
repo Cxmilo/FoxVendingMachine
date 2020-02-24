@@ -111,10 +111,15 @@ public class ScreenQuestionController : MonoBehaviour
         }
 #endif
 
-        var optionsEmojis = emojis.Where(e => !answersEmoji.Contains(e)).ToList().Take(16 - answersEmoji.Count());
+        var optionsEmojis = question.wrongAnswers;
 
-        optionsEmojis = optionsEmojis.Concat(answersEmoji);
-        optionsEmojis = optionsEmojis.OrderBy(a => System.Guid.NewGuid());
+        if (question.bUseRandomOptions)
+        {
+            optionsEmojis = emojis.Where(e => !answersEmoji.Contains(e)).ToList().Take(16 - answersEmoji.Count()).ToList();
+        }       
+
+        optionsEmojis = optionsEmojis.Concat(answersEmoji).ToList();
+        optionsEmojis = optionsEmojis.OrderBy(a => System.Guid.NewGuid()).ToList();
 
         foreach (var _emoji in optionsEmojis)
         {

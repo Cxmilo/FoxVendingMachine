@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: c1384fd066b2d474c922311913367acc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Playoff Serif
+  fontNames:
+  - Playoff Serif
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9ad4a8a0ebbcc1244956c2ac5c4e4ef7, type: 3}
+  - {fileID: 12800000, guid: 0ef2b6926c928914bbebdd742a1814df, type: 3}
+  - {fileID: 12800000, guid: 66b934366adf248489c1b86908b45cf9, type: 3}
+  - {fileID: 12800000, guid: 6408d579d41c85a4bb74ecc074798feb, type: 3}
+  - {fileID: 12800000, guid: 9d6c74cd13f0ae543bb2400d3f61fc9f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -134,6 +134,8 @@ public struct Question
     public string question;
     public Sprite QuestionBackground;
     public List<Emoji> answers;
+    public List<Emoji> wrongAnswers;
+    public bool bUseRandomOptions;
 }
 
 public enum Canal
