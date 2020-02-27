@@ -155,9 +155,10 @@ MonoBehaviour:
     answers:
     - {fileID: 1114331067}
     wrongAnswers:
-    - {fileID: 1757306707}
+    - {fileID: 210279985}
     - {fileID: 704271960}
     - {fileID: 1700516391}
+    - {fileID: 904173114}
     bUseRandomOptions: 0
   - canal: 0
     question: 
@@ -3902,8 +3903,8 @@ MonoBehaviour:
         m_RotationOrder: 4
       StartPos: {x: -803, y: 0, z: 0}
       EndPos: {x: 0, y: 0, z: 0}
-      StartWorldPos: {x: -2.8301432, y: 5, z: 0}
-      EndWorldPos: {x: 2.8124998, y: 5, z: 0}
+      StartWorldPos: {x: -2.8252609, y: 5, z: 0}
+      EndWorldPos: {x: 2.8125002, y: 5, z: 0}
     ScalePropetiesAnim:
       scaleEnabled: 0
       TweenCurveEnterScale:
@@ -4022,13 +4023,13 @@ MonoBehaviour:
     prize: {fileID: 21300000, guid: e88bc15b7dcf7854eb5d4384e82f133d, type: 3}
   MotoGPPrize:
     code: D4
-    prize: {fileID: 21300000, guid: 07351837e31b94348a4d16b2fb03ab17, type: 3}
+    prize: {fileID: 21300000, guid: d75e603dcf476f74fbbed78c32ae213e, type: 3}
   NFLPrize:
     code: E4
     prize: {fileID: 21300000, guid: ee2cce7fdfd4d8a49a785cae8a1a21b8, type: 3}
   RallyPrize:
     code: D8
-    prize: {fileID: 21300000, guid: d75e603dcf476f74fbbed78c32ae213e, type: 3}
+    prize: {fileID: 21300000, guid: 07351837e31b94348a4d16b2fb03ab17, type: 3}
   TenisPrize:
     code: E6
     prize: {fileID: 21300000, guid: 5ced6665752362841862c02b8203801c, type: 3}
